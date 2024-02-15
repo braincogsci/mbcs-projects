@@ -186,7 +186,7 @@ The important deadlines are listed in Table 4.
 
 |What?  |When?  |Who?|
 |:-----|:-----|:-|
-|Registering the project via [Datanose](https://www.datanose.nl/#yourprojects)|As soon as a complete work agreement is in place after the [[../Miscellaneous/Intake Meetings\|intake meeting]], ideally one month before the project starts|Student|
+|Registering the project via [Datanose](https://www.datanose.nl/#yourprojects)|As soon as a complete work agreement is in place after the [[Intake Meeting|intake meeting]], ideally one month before the project starts|Student|
 |Submitting Research Proposal via [Datanose Projects](https://www.datanose.nl/#yourprojects)| Within one month of starting date| Student|
 |Reviewing the Research Proposal |Within two weeks after its submission|Programme and examiner|
 |Midterm Evaluation Meeting|Halfway through the project |Student, supervisor and examiner (scheduled by student)|

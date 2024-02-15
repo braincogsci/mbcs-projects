@@ -35,7 +35,7 @@ The written work counts towards 50% of the final mark and is assessed by both th
 |Writing|The report follows the style guide of the journal that was chosen as exemplary for the field, language generally follows academic standards, but there are too many stylistic or grammatical errors.|The report follows the style guide of the journal that was chosen as exemplary for the field and language and grammar follow academic standards.|The report follows the style guide of the journal that was chosen as exemplary for the field. Its use of language is stylistically pleasing, without sacrificing accuracy and precision. The writing is parsimonious and language and grammar follow academic standards.|The report follows the academic standards for style, language and grammar, while remaining a pleasure to read. The writing is lucid and maintains flow, with smooth connections between paragraphs, an overall argumentation line and clearly motivated statements. The style fits the journal that was chosen as exemplary for the field.|In addition, the writing is parsimonious, clear and academic enough to warrant submission to an important journal that is relevant to the field.|
 
 ## Oral presentation
-The presentation counts towards 10% of the final mark and is assessed by the internal assessor.
+The presentation counts towards 10% of the final mark and is assessed by the internal assessor. During the [[./Public Defence|public defence]], the examiner may (also) be present.
 
 |Aspect|Poor (<4)|Not sufficient (4-5)|Sufficient (6)|Good (7-8)|Excellent (9-10)|
 |:----|:----|:----|:----|:----|:----|
