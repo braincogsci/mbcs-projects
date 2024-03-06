@@ -84,7 +84,7 @@ The following steps determine the workflow of the Literature Thesis:
 - Once the thesis has been submitted, the examiner will receive a link via e-mail through which the final grade for the work can be registered. See [the section on grading](Literature%2520Thesis%2520Manual.md##grading) for more information on the grading process.
 
 ## Supervision and assessment
-Two separate persons are involved in the assessment of the Literature Thesis: an assessor and an examiner. One of these two will in addition be the supervisor of the thesis. A description of the roles and requirements is given in Table 1. Note that the requirement for the examiner is that this person is a senior researcher at UvA, as the examiner ultimately holds responsibility for the validity of the grade. The examiner should also be in the possession of a basic certification for teaching (BKO).
+Two separate persons are involved in the assessment of the Literature Thesis: an assessor and an [[../Miscellaneous/Examiner|Examiner]]. One of these two will in addition be the supervisor of the thesis. A description of the roles and requirements is given in Table 1. Note that the requirement for the examiner is that this person is a senior researcher at UvA, as the examiner ultimately holds responsibility for the validity of the grade. The examiner should also be in the possession of a basic certification for teaching (BKO).
 
 **Table 1 - Roles, requirements and responsibilities for Literature Thesis**
 
