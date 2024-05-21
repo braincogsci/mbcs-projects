@@ -20,13 +20,11 @@ Sometimes students need to sign non-disclosure agreements or contracts with clau
 For more on this agreement, see: https://student.uva.nl/en/topics/internship-agreement-and-arrangements
 
 Note that this model agreement also replaces the Nuffic agreement for non-EEU students.
-### I want to do my project full-time (42 hours), but I cannot select 42 hours when registering my project. What do I do?
-This was a known issue as of December 2023 and has been resolved in January 2024. For those experiencing the issue, the best thing was to list the project as 40 hours. If this caused Datanose to calculate an erroneous ending date, please contact the programme coordinator, who can manually override this date. 
 
-### Isn't 42 hours a very odd number, anyway?
-It is and we will be honest: we don't really mind and would never be able to notice if you stick to 38 or 40 hours. But very technically, UvA expects students to spend 42 hours per week on learning. This follows from the fact that students are supposed to earn 60 EC in 40 weeks, or 1.5 EC/week. At 28 hours/EC, this leads to a workweek of 42 hours.
+### Isn't 42 hours a very odd number for a working week?
+It is and we will be honest: we don't really mind and would never be able to notice if you stick to 38 or 40 hours. But very technically, the Dutch academic calendar and the European Credits Transfer System (ECTS) lead to an expectation of 42 hours per week on learning. This follows from the fact that students are supposed to earn 60 EC in 40 weeks, or 1.5 EC/week. At 28 hours/EC, this leads to a workweek of 42 hours.
 
-Our advice is to stick to what's productive and what keeps your progress on track. Working more hours often leads to marginal returns.
+Our advice is to let that paper reality to be what it is and to stick to what's productive and what keeps your progress on track. Working more hours often leads to marginal returns, anyway.
 
 ### My examiner's name has an appended exclamation mark on the Datanose project page. What do I do?
 If you've registered the project within the last three weeks and had to make a request for approval of the examiner, the exclamation mark indicates that the request is still being processed. If it is still there by the time you submit your research proposal, it might be that the examiner will not be approved. If you notice this, please contact info-mcs@uva.nl.
@@ -38,10 +36,12 @@ If you need to extend the deadline for your project, make sure to set a new one 
 The EC value of a given project is based on the feasible "amount of learning" that was estimated during the proposal phase of your project. You cannot retroactively obtain additional ECs if you spend more hours on a project than was established at the start of the project.
 
 ### I am trying to turn in my report and I have to upload slides. I never heard about uploading slides. Am I supposed to upload slides?
-You're not. Sometimes the Datanose team changes settings and we suddenly have the setting of a different programme. Please let us know if this situation occurs and we can get the Datanose team to fix it. If you are in a hurry, feel free to upload a mock slide deck, preferably with a single slide stating 'leave the MBCS settings alone'.
+You're not. Sometimes the Datanose team changes settings and we suddenly have the setting of a different programme. Please let us know if this situation occurs and we can get the Datanose team to fix it. If you are in a hurry, feel free to upload a mock slide deck.
 
 ### Why is the report counting towards 50% of the final mark if I spent much more time and effort on experimental work?
 The validity of the report grade is considered to be higher, because we have two people assessing it. The experimental work, in contrast, is assessed by a single person. And we'd like the final mark of the project to be dominated by the most valid partial grade, which is why we opted for the 50%.
+
+As a more general rule (also in courses!) the weight of partial grades if never calculated by looking at the effort they require, but rather by looking at the importance of the learning objective(s) they measure and the validity by which they do so.
 
 ### I do not agree with my final mark. What do I do?
 During a feedback meeting, the assessor and examiner should be able to explain their grading decisions. If you feel you deserve a lower or higher grade, you can discuss this with them and if there are good reasons, the assessment might change as a consequence
@@ -51,11 +51,14 @@ Once the grade of a project has been confirmed and registered on Datanose, it ca
 >[!note]
 >Please note the examiner has the best view of UvA grading practices, especially if a project is done abroad, where the grading culture might be different.
 ### The manual is too long and complicated, I won't read that. I am also not going to look at slides. How will I know how all of this works?
-Perhaps you just need to watch a recording of Interntips? You will need to sign in with your UvA account to view it. Note it doesn't cover _all the stuff_.
+Perhaps you just need to watch a recording of Interntips? You will need to sign in with your UvA account to view it and someone needs to click an approve button from our end, but this will happen. Note the video doesn't cover _all the stuff_.
 
 <iframe src="https://amsuni-my.sharepoint.com/personal/v_tijms_uva_nl/_layouts/15/embed.aspx?UniqueId=a765d8e9-0f81-4981-ab68-093f48624b11&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create" width="640" height="360" frameborder="0" scrolling="no" allowfullscreen title="Research projects Info Meeting (Interntips).mp4"></iframe>
 ### I think the assessment procedure did not happen as it should have and I have been graded unfairly. What do I do?
 If you have doubts about the grading procedure, you can contact the Examinations Board of the programme to have them review the situation. You can reach them via boardofexaminers-mbcs@uva.nl.
+
+### I managed to get my work published and/or presented. Do you care?
+Congratulations! And yes, we care. We always like to track these things and so we'd appreciate it if you could submit the details via https://forms.office.com/e/xZtnGVLD60.
 
 # Examiner questions
 
@@ -64,7 +67,7 @@ Briefly put, your task is to monitor whether the level of the project and its as
 
 - Evaluating the level and feasibility of the research proposal for a research project
 - Joining the Midterm Evaluation of a research project to check the status of the project
-- Cross-validating the report grade for a research project of the complete work for a Literature Thesis
+- Cross-validating the report grade for a research project or the complete work for a Literature Thesis
 - Double-checking the assessment for the projects, before confirming and registering the grade.
 
 ### I see there is a grading discrepancy of 1 point or more between me and the assessor. What do I do?
