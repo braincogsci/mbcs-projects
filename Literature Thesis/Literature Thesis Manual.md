@@ -31,7 +31,7 @@ If it proves difficult to choose a good length of the thesis, a useful heuristic
 ### Content
 To promote interdisciplinary training, the content of the Literature Thesis should either:
 
-- Cover a problem in a discipline that is clearly distinct from that of the student's *Research Project 1*
+- Cover a problem in a discipline that is clearly distinct from that of the student's *Research Project 1* or
 - Combine insights from at least two clearly distinct disciplines
 
 In either case, the thesis should contain a reflection on how its main findings can be integrated with other disciplines.
@@ -47,7 +47,7 @@ The specific topic and problem statement of the Literature Thesis will influence
 4. A section detailing how this position relates to other disciplines (i.e. how the position could contribute to the understanding in other fields or, reversely how other fields could contribute to the problem/question that has been discussed in the literature thesis). It is allowed to add this section as an appendix or epilogue to the main thesis if that improves the structure of the text.
 
 ### Structure of thesis
-The structure of the thesis should be determined via collaboration of student with supervisor. If unsure, the following structure can be used.
+The structure of the thesis should be determined via collaboration of student with supervisor. If unsure, the following structure can be used. But before you just copy that, do consider what you think the best structure for your literature thesis is.
 
 1. Abstract
 2. Introduction and definition of problem
@@ -101,7 +101,7 @@ In some cases, students will come to an agreement with an examiner who has not b
 
 The student and supervisor should meet at least four times during the course of the writing: (1) to discuss the problem statement, (2) to discuss the outline of the thesis, (3) to discuss the first draft, and (4) to get feedback on the final version. The student is responsible for making these appointments with the supervisor and to prepare for the meetings. If so desired (and as long as it's reasonable), additional meetings or a different process are possible, but it should be kept in mind that the supervisor is expected to spend about 20 hours on the thesis and that reading a draft version, providing feedback on the draft version and grading the final version are included in these 20 hours.
 
-The supervisor is a content expert -- MBCS students are expected to be able to collect, analyze and synthesize literature relatively independently. Still, there are many situations where getting help from your peers or the programme can be helpful. To this end, the programme organizes check-ins for students writing their Literature Thesis and has a channel on the MBCS Slack dedicated to the thesis. See the [Literature Thesis page on Canvas for more details](https://canvas.uva.nl/courses/6067/pages/literature-thesis).
+The supervisor is a content expert -- MBCS students are expected to be able to collect, analyse and synthesise literature relatively independently. Still, there are many situations where getting help from your peers or the programme can be helpful. To this end, the programme organizes check-ins for students writing their Literature Thesis and has a channel on the MBCS Slack dedicated to the thesis. See the [Literature Thesis page on Canvas for more details](https://canvas.uva.nl/courses/6067/pages/literature-thesis).
 
 ## Delays
 In case the deadline for final submission as registered on Datanose is not going to be met by the student, the student is expected to contact the master's programme via info-mcs@uva.nl with an indication of the size of the delay. If the delay is more than one month, the student should also inform the study advisor of the programme and the examiner of the Literature Thesis. In this latter case, a motivation for the delay needs to be given. Based on this motivation, the examiner of the project may decide to set a new deadline together with the student or to mark the project as 'insufficient'. In the latter case, the project ends.
@@ -111,9 +111,9 @@ If acceptable delays occur, it is important that the student sets a new submissi
 If a student spends over the span of six months working on a Literature Thesis (i.e. the time between the starting date of the Literature Thesis and submission of the thesis is more than six months), it can no longer be graded in a valid manner. This means the work can still be assessed with the regular grading rubric, but registration of the grade will not be numerical. Instead, a 'pass' ('AVV') will  be registered. This is the case regardless of whether the Literature Thesis was written full-time or half-time.
 
 ## Materials and support
-The literature that is used to write the Literature Thesis is collected by the students themselves. In principle, we expect student who have completed their bachelor's degree to be capable of writing an academic text independently. However, we recognize prior educations differ and experience with writing theses might be limited. One way to improve writing is via the course _Professional Skills - Scientific Writing_, which can also be used as an Elective in _Brain and Cognitive Sciences._
+The literature that is used to write the Literature Thesis is collected by the students themselves. In principle, we expect students who have completed their bachelor's degree to be capable of writing an academic text independently. However, we recognize prior educations differ and experience with writing theses might be limited. One way to improve writing is via the course _Professional Skills - Scientific Writing_, which can also be used as an Elective in the research master _Brain and Cognitive Sciences._
 
-For those looking for more help with selecting or synthesizing sources, the following books and articles may prove useful:
+For those looking for more help with selecting or synthesising sources, the following books and articles may prove useful:
 
 - Burger, A. A. (2008). *The Academic Writer’s Toolkit* (1st ed.). New York: Routledge. 
 - Booth, W. C., Colomb, G. G., Williams, J. M., Bizup, J., & FitzGerald, W. T. (2016). *The Craft of Research* (4th ed.). Chicago: University of Chicago Press.
@@ -130,7 +130,7 @@ Students looking for additional help with writing can also attend a workshop hos
 
 Another useful suggestion is to look for PhD students or other master students that work on a project related to yours (e.g. together with the supervisor). Often, these people can help you play with ideas in conversation or, whenever necessary, you can keep each other motivated and accountable.
 
-The programme also organizes a regular Thesis Meeting, which serves as an intervision group for thesis writing. In addition, there is a dedicated chatroom on Matrix. [Check the programme Canvas for more information](https://canvas.uva.nl/courses/6067/pages/literature-thesis).
+The programme also organizes a regular Literature Thesis Check-in, which serves as an intervision group for thesis writing. In addition, there is a dedicated Slack channel for the Literature Thesis. [Check the programme Canvas for more information](https://canvas.uva.nl/courses/6067/pages/literature-thesis).
 
 ## Grading
 The *Literature Thesis* is assessed by the examiner and the assessor, both of whom are chosen by the student at the start of the project. Once the student has uploaded a final version of their literature thesis, the examiner and assessor will receive an e-mail message with a link to the Datanose project page, where they can submit partial grades for registration on the basis of a grading rubric. This rubric is only visible on Datanose after students submit their work, but it can also be found [[./Grading Rubrics Literature Thesis|here]]. Note that the thesis is written at a second-year master's level and that students are held to high standards.
