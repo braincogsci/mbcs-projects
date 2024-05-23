@@ -280,9 +280,16 @@ The credits listed when registering the project are those rewarded to the studen
 If a project exceeds the originally planned deadline by six months or more, the Examinations Board of the master’s programme may contact the internal assessor of the project for an explanation.
 
 ## Insufficient performance
-As listed in table 5, there are minimum grades for all three assessment components. If a student receives grades below these minimums, the project will be registered as ‘NAV’ (requirements not met) and the student will not be credited for the work.
+As listed in table 5, there are minimum grades for all three assessment components. If a student receives final grades below these minimums, the project will be registered as ‘NAV’ (requirements not met) and the student will not be credited for the work.
 
-Given the large size of the Research Projects, failing one will lead to a sizable study completion delay for the student. This means that if it becomes a clear a student might be heading towards an insufficient mark, it is important to explicitly inform the student about this (e.g. during the Midterm Evaluation). This way the student can either adapt performance accordingly, or choose to end the internship prematurely.
+Given the large size of the Research Projects, failing one will lead to a sizable study completion delay for the student. This means that if it becomes a clear a student might be heading towards an insufficient mark, it is important to explicitly inform the student about this (e.g. during the Midterm Evaluation). This way the student can either adapt performance accordingly, or choose to end the research project prematurely.
+
+## Resit and repair options
+At the halfway point of the research project, a Midterm Evaluation takes place that should establish the level of performance of the student and provide actionable feedback. The period after this Midterm Evaluation offers an opportunity for the student to improve where necessary.
+
+If the Midterm Evaluation indicates that student performance is subpart, to the extent that the student will fail without improvement, this should be clearly indicated. The second half of the project can then be used by the student as an opportunity to "repair". If performance remains too low, the student can be considered to have failed this "repair" opportunity.
+
+In exceptional cases, poor performance may only be noticed at a late stage. For example, the experimental work by a student might be in order, while the written report is wholly insufficient. In such cases, the student can be given the option to resubmit the written report as an option to repair. If this happens, the maximum grade that can be given for the report is a 6.0.
 
 ## Prematurely ending the Research Project
 If issues arise that jeopardize the success of the research project and that cannot be remediated by feedback or reaching consensus between supervisor, examiner and student, please contact the programme via [info-mcs@uva.nl](mailto:info-mcs@uva.nl). 

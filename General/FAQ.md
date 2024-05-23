@@ -14,7 +14,7 @@ There are two people grading your work. One within the lab where you are doing y
 
 For some projects, the label examiner will apply to the grader who is outside of the hosting lab (these are external projects). For others, the label examiner will apply to the grader within the hosting lab (these are internal projects). Both situations are perfectly fine.
 
-### I have an Action on my project page that says 'Upload Internship Agreement'. What does that mean?
+### I have an Action on my Research Project page that says 'Upload Internship Agreement'. What does that mean?
 Sometimes students need to sign non-disclosure agreements or contracts with clauses about intellectual property. In these cases, higher education in the Netherlands uses a model agreement that is signed by the student, the hosting institute and the programme director. If such an agreement is applicable to your project, you are kindly asked to upload it via your Datanose project page. 
 
 For more on this agreement, see: https://student.uva.nl/en/topics/internship-agreement-and-arrangements
@@ -35,10 +35,10 @@ If you need to extend the deadline for your project, make sure to set a new one 
 ### There have been delays and so I would like to receive additional ECs for the project. How do I do that?
 The EC value of a given project is based on the feasible "amount of learning" that was estimated during the proposal phase of your project. You cannot retroactively obtain additional ECs if you spend more hours on a project than was established at the start of the project.
 
-### I am trying to turn in my report and I have to upload slides. I never heard about uploading slides. Am I supposed to upload slides?
+### I am trying to turn in my report for a Research Project and I have to upload slides. I never heard about uploading slides. Am I supposed to upload slides?
 You're not. Sometimes the Datanose team changes settings and we suddenly have the setting of a different programme. Please let us know if this situation occurs and we can get the Datanose team to fix it. If you are in a hurry, feel free to upload a mock slide deck.
 
-### Why is the report counting towards 50% of the final mark if I spent much more time and effort on experimental work?
+### Why is the report for the Research Projects counting towards 50% of the final mark if I spent much more time and effort on experimental work?
 The validity of the report grade is considered to be higher, because we have two people assessing it. The experimental work, in contrast, is assessed by a single person. And we'd like the final mark of the project to be dominated by the most valid partial grade, which is why we opted for the 50%.
 
 As a more general rule (also in courses!) the weight of partial grades if never calculated by looking at the effort they require, but rather by looking at the importance of the learning objective(s) they measure and the validity by which they do so.
@@ -50,10 +50,11 @@ Once the grade of a project has been confirmed and registered on Datanose, it ca
 
 >[!note]
 >Please note the examiner has the best view of UvA grading practices, especially if a project is done abroad, where the grading culture might be different.
-### The manual is too long and complicated, I won't read that. I am also not going to look at slides. How will I know how all of this works?
-Perhaps you just need to watch a recording of Interntips? You will need to sign in with your UvA account to view it and someone needs to click an approve button from our end, but this will happen. Note the video doesn't cover _all the stuff_.
+### The manual for the Research Projects is too long and complicated, I won't read that. I am also not going to look at slides. How will I know how all of this works?
+Perhaps you just need to watch a recording of the information meeting? You will need to sign in with your UvA account to view it and someone needs to click an approve button from our end, but this will happen. Note the video doesn't cover _all the stuff_.
 
 <iframe src="https://amsuni-my.sharepoint.com/personal/v_tijms_uva_nl/_layouts/15/embed.aspx?UniqueId=a765d8e9-0f81-4981-ab68-093f48624b11&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create" width="640" height="360" frameborder="0" scrolling="no" allowfullscreen title="Research projects Info Meeting (Interntips).mp4"></iframe>
+
 ### I think the assessment procedure did not happen as it should have and I have been graded unfairly. What do I do?
 If you have doubts about the grading procedure, you can contact the Examinations Board of the programme to have them review the situation. You can reach them via boardofexaminers-mbcs@uva.nl.
 
