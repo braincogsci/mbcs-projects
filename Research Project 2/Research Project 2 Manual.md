@@ -79,7 +79,7 @@ Table 2 summarizes the requirements and responsibilities of the different roles.
 
 
 >[!tip] Registering the roles on Datanose
-> When all roles are identified, the student registers the project on Datanose and should list the assessor and an examiner, as well as whether the project is done internally (in the lab of the examiner) or externally (in a lab elsewhere). It is important this is done correctly. If an examiner cannot be selected from the dropdown menu in Datanose, this means the specific examiner has not been approved by the Examinations Board yet. If this is the case, let the programme know via [info-mcs@uva.nl](mailto:info-mcs@uva.nl). The Examinations Board will then review whether the intended examiner can be approved as such. Please make sure the intended examiner meets the requirements listed in Table 2.
+> When all roles are identified, the student registers the project on Datanose and should list the assessor and an examiner, as well as whether the project is done internally (in the lab of the examiner) or externally (in a lab elsewhere). It is important this is done correctly. If an examiner cannot be selected from the dropdown menu in Datanose, this means the specific examiner has not been approved by the Examinations Board yet. See the section [[../Miscellaneous/Examiner|Examiner]] for information on how to request such approval. Please make sure the intended examiner meets the requirements listed in Table 2.
 
 ## Responsibilities
 
