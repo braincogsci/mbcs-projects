@@ -97,7 +97,7 @@ Two separate persons are involved in the assessment of the Literature Thesis: an
 
 Please note that the UvA staff member who is designated examiner is responsible for determining and submitting the final grade. Both the assessor and the examiner can log into [www.datanose.nl](http://www.datanose.nl) using a link that will be sent via e-mail once the student submits the final version of the thesis to the project portal on Datanose.nl. The examiner and assessor can then fill in the online grading form and submit the final grade. It is up to the examiner to review the grading and sign for the validity of the grade.
 
-In some cases, students will come to an agreement with an examiner who has not been approved by the Examinations Board of the research master *Brain and Cognitive Sciences* yet. If this happens, the particular examiner will not be selectable on Datanose. By contacting [info-mcs@uva.nl](mailto:info-mcs@uva.nl), the student can request approval for the examiner.
+In some cases, students will come to an agreement with an examiner who has not been approved by the Examinations Board of the research master *Brain and Cognitive Sciences* yet. If this happens, the particular examiner will not be selectable on Datanose. See the page [[../Miscellaneous/Examiner|Examiner]] for details on how a student can request approval of a new examiner.
 
 The student and supervisor should meet at least four times during the course of the writing: (1) to discuss the problem statement, (2) to discuss the outline of the thesis, (3) to discuss the first draft, and (4) to get feedback on the final version. The student is responsible for making these appointments with the supervisor and to prepare for the meetings. If so desired (and as long as it's reasonable), additional meetings or a different process are possible, but it should be kept in mind that the supervisor is expected to spend about 20 hours on the thesis and that reading a draft version, providing feedback on the draft version and grading the final version are included in these 20 hours.
 
@@ -159,6 +159,9 @@ Submitted final grades are rounded to whole or half grades (exception: grade 5.5
 
 ### Date listed on student transcript
 At the Faculty of Science of the University of Amsterdam, the grades for individual projects such as the *Literature Thesis* are registered with the date on which the examiner submitted the final grade. The student needs to be enrolled for such registration to be possible.
+
+### Insufficient performance
+If the student does not receive a passing grade for the Literature Thesis after assessment of the submitted work, it is not possible to repair the work on the basis of more feedback or instructions, as that would jeopardise the validity of the grade. Instead, the student must then redo the project as a whole, on the basis of a new problem statement or research question. This new thesis might also require the student to find a new thesis supervisor, as there is no requirement for any of the parties involved (assessor and examiner) to take on the second "resit" project.
 
 ## Study load
 The workload of the *Literature Thesis* should amount to 336 hours in total. The distribution of these hours will vary per project. The student prepares a detailed planning and time schedule from the outset of the thesis project. Student and supervisor should agree on this planning before an extensive literature search or the actual writing is started.
