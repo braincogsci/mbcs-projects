@@ -3,6 +3,8 @@ You can use the following grading rubrics to determine the quality of the submit
 
 To use the rubric, choose the description that most closely matches a description of the work that is being assessed. Note that from sufficient onwards, the higher performance descriptions include meeting the standards of lower levels. 
 
+The column headers list a qualitative description of the level of work. These descriptors map onto a range of grades. The low end of this range corresponds to only just meeting the norms in the respective column, while the high end corresponds to clearly meeting those norms, but not yet the norms of the subsequent column. For more on the ranges, see the section *Dutch grading system below.*
+
 Process is only assessed by the assessor who was closely involved with the writing process (the examiner in case of internal projects, the assessor in case of external projects). The thesis is assessed by both assessors. The final mark consists of the weighted average of process (10%) and thesis (90%). The grade for the thesis is the average of the grades given by the assessor, but please be mindful that the assessors may not allot grade points with a different of 1 point or more.
 
 ## Process
@@ -24,4 +26,13 @@ Process is only assessed by the assessor who was closely involved with the writi
 # Dutch grading system
 The Dutch grading system scores on a 1-10 scale, with 6 being the minimum pass mark. See the following website for more information: https://www.nuffic.nl/en/education-systems/netherlands/grading-systems
 
-Note that works that score higher than 8.0 are remarkable and that the grade 9 is reserved for the top 3% of students, while only the top 0.5% scores 10.
+The qualitative descriptors (Poor, Insufficient, Sufficient, etc.) from the rubric map onto multiple possible numerical values. Which of these values is a proper assessment of the student's work is at the discretion of the grader - a student might only just meet the norms in the column (low end of the range) or perhaps might just fall short of the norms in the subsequent column (high end of the range). Note that grades can be provided up to a precision of half points.
+
+| Qualitative descriptor | Grade range (inclusive) |
+| :--------------------- | ----------------------- |
+| Poor                   | 1 - 4                   |
+| Insufficient           | 4.5 - 5.5               |
+| Sufficient             | 6 - 7                   |
+| Good                   | 7.5 - 8                 |
+| Excellent              | 8.5 - 10                |
+Please note that works that score higher than 8.0 are remarkable and that the grade 9 is reserved for the top 3% of students, while only the top 0.5% scores 10.
