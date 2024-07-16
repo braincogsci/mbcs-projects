@@ -115,12 +115,12 @@ The  supervisor guides the student and provides constructive feedback on his or 
 If student and supervisor work closely together, then providing this feedback may happen quite naturally. If this is not the case, it is good to set out some time each month to discuss how things are going. One effective way to do this is by giving your opinion on where the students stands using the [[./Grading Rubrics Research Project 2|Grading Rubrics Research Project 2]] and giving constructive, actionable criticism.
 
 #### Join Midterm Evaluation
-Halfway through the project, a formalized (online) feedback meeting takes place between supervisor and student, together with the examiner of the project. During this so-called Midterm Evaluation, the three parties discuss all progress so far, as well as performance and mutual satisfaction about the internship. This is an important opportunity for all parties to review how things are going. 
+Halfway through the project, a formalized (online) feedback meeting takes place between supervisor and student. The student can request the examiner of the project to join the midterm evaluation, in case there are problems to be discussed. During this so-called Midterm Evaluation, the involved parties discuss all progress so far, as well as performance and mutual satisfaction about the internship. This is an important opportunity for all parties to review how things are going. 
 
-The topics that should be addressed during this meeting are listed on a separate form, made available to students via the programme Canvas page. Please note that filling in the form is supposed to be a tool that structures the meeting, not an end in itself. It's the conversation that counts.
+The topics that should be addressed during this meeting are listed on a separate form, made available via Datanose. Please note that filling in the form is supposed to be a tool that structures the meeting, not an end in itself. It's the conversation that counts.
 
 #### Provide feedback on the draft version of the research report
-One month before the end of the project, the student will submit a draft version of the research report. The draft version should be as complete as possible, to allow for effective feedback. The supervisor is expected to evaluate this draft report within a reasonable time frame and provide the student with constructive feedback.
+Approximately one month before the end of the project, the student is expected to submit a draft version of the research report. The draft version should be as complete as possible, to allow for effective feedback. The supervisor is expected to evaluate this draft report within a reasonable time frame and provide the student with constructive feedback.
 
 ---
 
@@ -131,7 +131,7 @@ The internal grader is expected to spend about four hours on the research projec
 It is good practice to monitor the project, either via occassional check-ins with the supervisor or with the student. This is especially important to be able to assess the experimental work, as it might otherwise not be clear what the performance of the student is like.
 
 #### Grade experimental work, presentation and final report
-The internal grader is expected to grade all three assessment forms: the experimental work, the final presentation during the public defence and the final report, using the respective grading rubrics. These rubrics can be filled on the Datanose project portal when the time for assessment has come.  
+The internal grader is expected to grade all three assessment forms: the experimental work, the final presentation during the public defence and the final report, using the respective grading rubrics. These rubrics can be filled on the Datanose project portal when the time for assessment has come. During the public defence, the internal grader will grade all presentations given during a session (typically 3-5 students).
 
 #### Discuss and register the final grade
 Before fully registering the grade, a feedback meeting between internal grader, external grader and student can clarify the assessment and discuss the main findings.
@@ -139,7 +139,7 @@ Before fully registering the grade, a feedback meeting between internal grader, 
 --- 
 
 ### External grader tasks
-The external grader is expected to spend about four hours on the research project, grading the final report and in rare cases being available for an 'outside view' during the project.
+The external grader is expected to spend about four hours on the research project, grading the final report and in rare cases being available for an 'outside view' during the project. The external grader is invited to join the public defence and grade all presentations given during a session (typically 3-5 students).
 
 #### Discuss and register the final grade
 Before fully registering the grade, a feedback meeting between internal grader, external grader and student can clarify the assessment and discuss the main findings.
@@ -164,18 +164,18 @@ Halfway through the project, a formalized (online) feedback meeting takes place 
 The Midterm Evaluation is an important opportunity for all parties to review how things are going. Since the examiner may be an external grader, their contribution may be that of an outsider.
 
 #### Assess public defence
-The student will also give an oral presentation (max 20  minutes, plus max 10 minutes Q&A) about their Research Project during a public defence session. The program will organize several defence sessions during the academic year, during which 3-5 students will jointly present their projects in front of a broad panel, as well as their examiners. There are both on-site and online variants of such events.
+The student will also give an oral presentation (max 20  minutes, plus max 10 minutes Q&A) about their Research Project during a public defence session. The program will organize several defence sessions during the academic year. During each public defence, students will be divided in groups 3-5 students will jointly present their projects in front of a broad panel, which includes their examiners. There are both on-site, hybrid and online variants of such events.
 
 For each student, at least the examiner or internal grader must attend the presentation. Students must indicate their intent to present their projects at least one month before the intended presentation date by contacting the programme assistant.
 
 #### Guarantee validity of the grade
-The examiner is expected to collect the grade(s) given by the assessor and to determine a final grade. This includes discussing the verdict with the assessor and establishing consensus if the first opinions about the final grade diverge by one grade point or more. In case of any doubts about the overall grade, the examiner can contact the MBCS programme coordinator for troubleshooting. Examples of such doubts may be:
+The examiner is expected to collect the grade(s) given by the assessor and the public defence panel, and to determine a final grade. This includes discussing the verdict with the assessor and establishing consensus if the first opinions about the final grade diverge by one grade point or more. In case of any doubts about the overall grade, the examiner can contact the MBCS programme coordinator for troubleshooting. Examples of such doubts may be:
 
 * The assessor and examiner have conflicting opinions about the written report
 * The (cross-validated) assessment of the report is very different from the assessment of the (non-validated) experimental work and/or presentation.
 
 #### Submit the final grade
-The examiner is expected to submit the final grade for registration via [www.datanose.nl](https://www.datanose.nl), using a link that is automatically e-mailed once the student has submitted the final report and assessment by both internal and external grader has been completed.
+The examiner is expected to submit the final grade for registration via [www.datanose.nl](https://www.datanose.nl), using a link that is automatically e-mailed once the student has submitted the final report, assessment by both internal and external grader has been completed and the grades provided by panel members during the public defence have been collected by examiner.
 
 #### Discuss and register the final grade
 Before fully registering the grade, a feedback meeting between assessor, examiner and student can clarify the assessment and discuss the main findings.
