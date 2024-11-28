@@ -115,9 +115,9 @@ The  supervisor guides the student and provides constructive feedback on his or 
 If student and supervisor work closely together, then providing this feedback may happen quite naturally. If this is not the case, it is good to set out some time each month to discuss how things are going. One effective way to do this is by giving your opinion on where the students stands using the [[./Grading Rubrics Research Project 2|Grading Rubrics Research Project 2]] and giving constructive, actionable criticism.
 
 #### Join Midterm Evaluation
-Halfway through the project, a formalized (online) feedback meeting takes place between supervisor and student, together with the examiner of the project. During this so-called Midterm Evaluation, the three parties discuss all progress so far, as well as performance and mutual satisfaction about the internship. This is an important opportunity for all parties to review how things are going. 
+Halfway through the project, a formal (online) feedback meeting takes place between supervisor and student, together with the examiner of the project. During this so-called Midterm Evaluation, the three parties discuss all progress so far, as well as performance and mutual satisfaction about the internship. This is an important opportunity for all parties to review how things are going. 
 
-The topics that should be addressed during this meeting are listed on a separate form, made available to students via the programme Canvas page. Please note that filling in the form is supposed to be a tool that structures the meeting, not an end in itself. It's the conversation that counts.
+Also see: [[../Miscellaneous/Midterm Evaluation|Midterm Evaluation]]
 
 #### Provide feedback on the draft version of the research report
 One month before the end of the project, the student will submit a draft version of the research report. The draft version should be as complete as possible, to allow for effective feedback. The supervisor is expected to evaluate this draft report within a reasonable time frame and provide the student with constructive feedback.
