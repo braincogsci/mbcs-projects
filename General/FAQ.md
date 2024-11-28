@@ -7,12 +7,18 @@ The dialog that shows you the options has a button 'Not in list'. If you click t
 The numbering on Datanose is non-continuous. You're right that this makes no sense. It is one of several oddities of the system as a whole. You're entirely in the safe zone despite the missing steps.
 
 ### What do I do if my examiner is not listed as an option on the Datanose project page?
-In this case, your intended examiner still needs approval by the Examinations Board. Contact info-mcs@uva.nl and provide the details of your intended examiner. The programme will then put in the request.
+In this case, your intended examiner still needs approval by the Examinations Board. Please use the following form to submit the details of your intended examiner:
+
+https://forms.office.com/e/gKae3KX9FL
 
 ### I still don't get the thing about examiners and assessors.
 There are two people grading your work. One within the lab where you are doing your project, one outside of it. One of these two people gets the label examiner, and the other does not. One can only get this label if meeting [[../Research Project 1/Research Project 1 Manual#Requirements|particular requirements]], such as working at UvA. 
 
 For some projects, the label examiner will apply to the grader who is outside of the hosting lab (these are external projects). For others, the label examiner will apply to the grader within the hosting lab (these are internal projects). Both situations are perfectly fine.
+
+When registering your project, Datanose will try to trick you. See this video on how to choose Internal vs External without falling into the trap that Datanose sets:
+
+https://www.loom.com/share/f311ab6c85c94625864bc525aa2c6a02
 
 ### I have an Action on my Research Project page that says 'Upload Internship Agreement'. What does that mean?
 Sometimes students need to sign non-disclosure agreements or contracts with clauses about intellectual property. In these cases, higher education in the Netherlands uses a model agreement that is signed by the student, the hosting institute and the programme director. If such an agreement is applicable to your project, you are kindly asked to upload it via your Datanose project page. 
