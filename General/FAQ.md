@@ -3,6 +3,9 @@
 ### What do I do if my assessor is not listed as an option on the Datanose project page?
 The dialog that shows you the options has a button 'Not in list'. If you click that button you can manually add the assessor. Do make sure the assessor meets the project requirements.
 
+### I am not sure how to find a suitable project
+While it's easy to say that finding a project is "simply contacting people", this step by itself can be daunting. Check out our [[../Miscellaneous/Tips for landing a project|Tips for landing a project]] to help you get started.
+
 ### There are steps missing on the Datanose registration page. Is everything okay?
 The numbering on Datanose is non-continuous. You're right that this makes no sense. It is one of several oddities of the system as a whole. You're entirely in the safe zone despite the missing steps.
 
@@ -55,7 +58,7 @@ During a feedback meeting, the assessor and examiner should be able to explain t
 Once the grade of a project has been confirmed and registered on Datanose, it can no longer be edited by assessor and examiner. This is why it is good practice to schedule the feedback meeting before the grade registration is finalised.
 
 >[!note]
->Please note the examiner has the best view of UvA grading practices, especially if a project is done abroad, where the grading culture might be different.
+>Please note the examiner has the best view of UvA grading practices, especially if a project is done abroad, where the grading culture might be different.>
 ### The manual for the Research Projects is too long and complicated, I won't read that. I am also not going to look at slides. How will I know how all of this works?
 Perhaps you just need to watch a recording of the information meeting? You will need to sign in with your UvA account to view it and someone needs to click an approve button from our end, but this will happen. Note the video doesn't cover _all the stuff_.
 
