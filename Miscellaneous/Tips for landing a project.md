@@ -47,7 +47,7 @@ The most important information is:
 If you receive a no, make sure you:
 
 - Understand why it is a no (this might influence your future search strategy)
-- Check whether the responding party knows of any leads for other positions.
+- Check whether the responding party knows of any leads for other positions (and if you contact those leads, feel free to namedrop the person who referred you)
 
 
 

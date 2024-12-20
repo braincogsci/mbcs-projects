@@ -37,7 +37,7 @@ As 1 EC corresponds to 28 hours of work, the different sizes of *Research Projec
 
 Note that full-time equivalence corresponds to a workload of 1.5 EC (42 hours) per week. Individual students might have a study plan that requires them to balance the project with one or more courses, in which case they can work less hours per week and will spend more weeks on the project.
 
-## Pre-requisites
+## Prerequisites
 
 _Research Project 2_ is to be performed after _Research Project 1_. While the main objective of _Research Project 1_ is to train students to effectively work in an academic research environment, _Research Project 2_ also aims to train students to become independent researchers, and be able to both design research projects to address specific questions, as well as present their results to a broad scientific community.
 
@@ -223,13 +223,13 @@ Halfway through the project, the student schedules a meeting with the supervisor
 ### Provide draft version of the research report
 One month before the end of the project, the student will submit a draft version of the research report. This report should be written in the format of a research article that is appropriate to the field in which the internship takes place (e.g. following the guidelines of a key journal), and it should clearly convey the work that the student has done. The draft version should be as complete as possible, to allow for effective feedback. The student can decide on the specific format in collaboration with the supervisor.
 
-### Write Provide final report
+### Provide final report
 The student finalizes the Research Project by submitting a written report which follows the structure and style of a journal that is relevant to the domain in which the student has worked. The student can decide on the specific format in collaboration with the supervisor. The report can be submitted via the project portal on Datanose. Note that the cover page of the report must follow the [[../Miscellaneous/MBCS Formatting Guidelines|MBCS Formatting Guidelines]].
 
 ### Perform public defence
-The student will also give an oral presentation (max 20  minutes, plus max 10 minutes Q&A) about their Research Project during a public defence session. The program will organize several defence sessions during the academic year, during which 3-5 students will jointly present their projects in front of a committee composed of examiners and assessors for the research projects being presented. The committee should always consist of at least one of the graders for the project under consideration.
+The student will also give an oral presentation (max 10  minutes, plus max 5 minutes Q&A) about their Research Project during one of the MBCS Symposia. See: [[./Public Defence|Public Defence]].
 
-This means that for each student, either the examiner or the internal grader (or both) must attend the presentation for the purpose of assessment. Students must indicate their intention to present their projects at least one month before the intended presentation date, by picking a date using the dedicated form found on the Programme Canvas page. Other students from the programme are welcome to join a defence session.
+For each student, either the examiner or the internal grader (or both) must attend the presentation for the purpose of assessment Student can pick a date using the dedicated form found on the Programme Canvas page. Other students from the programme are welcome to join a defence session.
 
 >[!info] Remote participation
 >Since *Research Project 2* takes place in many different countries and students may not be planning to return to the Netherlands after completing their degree requirements, the programme organizes both remote and physical sessions for the public defence.
