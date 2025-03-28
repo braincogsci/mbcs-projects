@@ -1,4 +1,6 @@
+The freedom to find and choose a project that suits your own interests comes with the responsibility to identify your wants and needs, and to search for a project placement yourself. This is not necessarily an easy task, but practicing it within MBCS will pay off once you hit the labour market.
 
+This page contains some suggestions that can help you on your quest for a research project that matches your abilities and interests.
 ## Know what you want
 As for most important decisions in life, self-knowledge is key. What do you think you want to do in the future? Which skills do you think you need to acquire? What kind of work provides you with joy? In what type of work environment do you flourish?
 
@@ -25,7 +27,7 @@ The common house spider lay 100 eggs in a single sac. Not all of these become sp
 - The lab may be short on staff to supervise
 - The lab may have already brought in students
 - The lab may not see a good match with you or with the constraints of the research project
-- The timing of your project might work for the lab
+- The timing of your project might not work for the lab
 
 This is why you want to send out several requests simultaneously. There's no shame in chasing multiple opportunities at the same time, because if you approach people sequentially, you will quickly run out of time.
 
