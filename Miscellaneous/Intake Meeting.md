@@ -19,10 +19,12 @@ For [[../Research Project 1/Grading Rubrics Research Project 1|Grading Rubrics R
 
 For example, in a project that is about analysis of existing data, all aspects related to data collection should not count for much, while all aspects related to analysis might be given special importance.
 
+In the case of [[../Literature Thesis/Grading Rubrics Literature Thesis|Grading Rubrics Literature Thesis]], the weights are preset.
+
 ## Supervision
 Make sure to discuss how supervision is organised. In some labs, students are working closely with supervisors and can ask questions at an ad hoc basis. In other labs, weekly meetings are the best solution. Some labs have shared communication platforms (e.g. Slack) while others do not. Being in the clear about how and how often supervisor and student are in contact is useful for further collaboration
 
 # Materials
-Students are requested to fill in a work agreement that covers the essentials and add it as an attachment to a comment on their [[./Datanose project page|Datanose project page]].
+In the case of the Research Projects, students are requested to fill in a work agreement that covers the essentials and add it as an attachment to a comment on their [[./Datanose project page|Datanose project page]].
 
 The document can be found here (requires UvA login): [Work agreement 2023-2024.docx](https://amsuni.sharepoint.com/:w:/s/FNWI_EDU_IIS_BCS/ETRslCIbcLxOgYAe2iO0Zw0Bp-O4MmONnl5utHfwD6osnQ?e=VHfJSp)

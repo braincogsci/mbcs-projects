@@ -76,7 +76,6 @@ Congratulations! And yes, we care. We always like to track these things and so w
 Briefly put, your task is to monitor whether the level of the project and its assessment are in order. Since you are familiar with the UvA benchmarks and have demonstrable experience with assessment of individual projects, you are well-positioned to do so. The manual of the respective project gives more details on what the role entails exactly, but you can think of:
 
 - Evaluating the level and feasibility of the research proposal for a research project
-- Joining the Midterm Evaluation of a research project to check the status of the project
 - Cross-validating the report grade for a research project or the complete work for a Literature Thesis
 - Double-checking the assessment for the projects, before confirming and registering the grade.
 

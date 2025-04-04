@@ -254,9 +254,9 @@ Grading is based on three components: the experimental work, the final report on
 
 | Component |Contribution to final grade| Graded by| Minimum grade | 
 |:--|:--:|:--|:--:|
-|Experimental work|40%|Internal assessor |6.0|
-|Final report|50% |Internal assessor and external assessor |6.0 |
-|Oral presentation|10%|Internal assessor |6.0|
+|Experimental work|40%|Internal assessor |5.5|
+|Final report|50% |Internal assessor and external assessor |5.5|
+|Oral presentation|10%|Internal assessor |5.5|
 
 To grade the different components or to get a better idea about the expected level, please review the [[./Grading Rubrics Research Project 2|Grading Rubrics Research Project 2]].
 
