@@ -57,7 +57,7 @@ The structure of the thesis should be determined via collaboration of student wi
 6. Conclusions
 7. References
 
-If it proves difficult to choose a fitting structure, a useful heuristic is to follow the structure of a review article in the respective field of expertise. Whichever structure and format you use, please make sure to follow the [[../Miscellaneous/MBCS Formatting Guidelines|MBCS Formatting Guidelines]] for the cover page of the thesis.
+If it proves difficult to choose a fitting structure, a useful heuristic is to follow the structure of a review article in the respective field of expertise. Whichever structure and format you use, please make sure to follow the [[../Miscellaneous/Formatting and Publication Guidelines|Formatting and Publication Guidelines]] for the cover page of the thesis.
 
 ### Finding a topic
 There are various ways to find a proper problem statement or research question. For example, the following scenarios might apply:
