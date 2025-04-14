@@ -220,11 +220,16 @@ Also see: [[../Miscellaneous/Midterm Evaluation|Midterm Evaluation]]
 ### Provide draft version of the research report
 One month before the end of the project, the student will submit a draft version of the research report. This report should be written in the format of a research article that is appropriate to the field in which the internship takes place (e.g. following the guidelines of a key journal), and it should clearly convey the work that the student has done. The draft version should be as complete as possible, to allow for effective feedback. The student can decide on the specific format in collaboration with the supervisor.
 
+> [!note] Formatting guidelines
+> 
+> While you have discretion to adapt your work to the conventions in your field of choice, there are some formatting guidelines. See: [[../Miscellaneous/Formatting and Publication Guidelines|Formatting and Publication Guidelines]]
 ### Provide final report
-The student finalizes the Research Project by submitting a written report which follows the structure and style of a journal that is relevant to the domain in which the student has worked. The student can decide on the specific format in collaboration with the supervisor. The report can be submitted via the project portal on Datanose. Note that the cover page of the report must follow the [[../Miscellaneous/MBCS Formatting Guidelines|MBCS Formatting Guidelines]].
+The student finalizes the Research Project by submitting a written report which follows the structure and style of a journal that is relevant to the domain in which the student has worked. The student can decide on the specific format in collaboration with the supervisor. The report can be submitted via the project portal on Datanose.
 
 ### Perform public defence
-The student will also give an oral presentation (max 10  minutes, plus max 5 minutes Q&A) about their Research Project during one of the MBCS Symposia. See: [[./Public Defence|Public Defence]].
+The student will also give an oral presentation (max 10  minutes, plus max 5 minutes Q&A) about their Research Project during one of the MBCS Symposia. 
+
+See: [[./Public Defence|Public Defence]].
 
 For each student, either the examiner or the internal grader (or both) must attend the presentation for the purpose of assessment Student can pick a date using the dedicated form found on the Programme Canvas page. Other students from the programme are welcome to join a defence session.
 
