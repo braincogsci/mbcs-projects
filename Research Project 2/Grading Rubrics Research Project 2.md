@@ -53,8 +53,9 @@ Once you have determined all the grades, you can use the weights of the aspects 
 You can fill in the rubrics on the [[../Miscellaneous/Datanose project page|Datanose project page]] of the Research Project, once the time to assess has come (i.e. once the student has submitted the report).
 
 # Dutch grading system
-The Dutch grading system scores on a 1-10 scale, with 6 being the minimum pass mark. See the following website for more information: https://www.nuffic.nl/en/education-systems/netherlands/grading-systems.
+The Dutch grading system scores on a 1-10 scale, with 6 being the minimum pass mark. See the following website for more information: https://www.nuffic.nl/en/education-systems/netherlands/grading-systems. 
 
 The University of Amsterdam has listed how the different grades in the Dutch system compare to international standards. This list can be found here: https://student.uva.nl/en/topics/the-marking-assessment-and-registration-of-your-academic-results
 
-Note that works that score higher than 8.0 are remarkable and that the grade 9 is reserved for the top 3% of students, while only the top 0.5% scores 10.
+See more via: [[../Miscellaneous/Grading System|Grading System]]
+
