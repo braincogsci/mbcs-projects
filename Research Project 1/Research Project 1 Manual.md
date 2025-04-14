@@ -243,6 +243,10 @@ Also see: [[../Miscellaneous/Midterm Evaluation|Midterm Evaluation]]
 ### Provide draft version of the research report
 One month before the end of the project, the student will submit a draft version of a technical report. This report should be written in a form that is appropriate to the field in which the research project takes place, and it should clearly convey the work that the student has done. The draft version should be as complete as possible, to allow for effective feedback.
 
+>[!note] Formatting guidelines
+>
+>While you have discretion to adapt your work to the conventions in your field of choice, there are some formatting guidelines. See: [[../Miscellaneous/Formatting and Publication Guidelines|Formatting and Publication Guidelines]]
+
 Please note that what counts is the actual completion date of the project. If the project is suffering from delays, the draft need not be submitted one month before the registered ending date.
 
 ### Present the Research Project orally
