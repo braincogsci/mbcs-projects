@@ -9,6 +9,9 @@ While it's easy to say that finding a project is "simply contacting people", thi
 ### There are steps missing on the Datanose registration page. Is everything okay?
 The numbering on Datanose is non-continuous. You're right that this makes no sense. It is one of several oddities of the system as a whole. You're entirely in the safe zone despite the missing steps.
 
+### I am getting an error while registering my project, because the starting date is not in order.
+In the case of Research Projects, your proposal is due within one month after the starting date. As a consequence, you cannot retroactively register a project with a starting date over a month ago. You will have to choose a later starting date (and therefore ending date) so that you can still submit your proposal in time.
+
 ### What do I do if my examiner is not listed as an option on the Datanose project page?
 In this case, your intended examiner still needs approval by the Examinations Board. Please use the following form to submit the details of your intended examiner:
 
