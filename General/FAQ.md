@@ -36,8 +36,7 @@ Note that this model agreement also replaces the Nuffic agreement for non-EEU st
 ### Isn't 42 hours a very odd number for a working week?
 It is and we will be honest: we don't really mind and would never be able to notice if you stick to 38 or 40 hours. But very technically, the Dutch academic calendar and the European Credits Transfer System (ECTS) lead to an expectation of 42 hours per week on learning. This follows from the fact that students are supposed to earn 60 EC in 40 weeks, or 1.5 EC/week. At 28 hours/EC, this leads to a workweek of 42 hours.
 
-Our advice is to let that paper reality to be what it is and to stick to what's productive and what keeps your progress on track. Working more hours often leads to marginal returns, anyway.
-
+Our advice is to let that paper reality to be what it is and to stick to what's productive,  what keeps your progress on track and what is considered full-time by the hosting lab.
 ### My examiner's name has an appended exclamation mark on the Datanose project page. What do I do?
 If you've registered the project within the last three weeks and had to make a request for approval of the examiner, the exclamation mark indicates that the request is still being processed. If it is still there by the time you submit your research proposal, it might be that the examiner will not be approved. If you notice this, please contact info-mcs@uva.nl.
 
