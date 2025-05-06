@@ -18,7 +18,7 @@ Via the Programme Canvas, the page on research projects links to an online form 
 ## Assessment
 The Public Defence is assessed and it's this grade that will be used as the presentation grade for Research Project 2. For this, the rubrics as found in [[./Grading Rubrics Research Project 2|Grading Rubrics Research Project 2]] are to be used.
 
-Assessment is done by the Public Defence committee. This committee consists of at least three people and at least one of these people is the internal or external grader of the project under consideration. Each committee member uses the rubric to arrive at a final score and the weighted average of the scores is used to determine the grade.
+Assessment is done by the Public Defence committee, which consists of the graders in that particular round. This means it is made up of at least three people and at least one of these people is the internal or external grader of the project under consideration. Each committee member uses the rubric to arrive at a final score and the weighted average of the scores is used to determine the grade.
 
 In case neither the internal or external grader of the project makes it to the Public Defence, the presentation should be repeated in a different setting where at least one of them _is_ present, yielding an additional grade that can be used together with those from the Public Defence to determine the presentation grade.
 
