@@ -3,6 +3,9 @@ When a plan hits reality, it is rarely the plan that wins. That is why managing 
 ## Assess feasibility before starting
 Now this does not mean planning is useless. It is good to foresee risks of delay and to avoid starting projects that could never work. Each Research Project therefore starts with explicit planning. The supervisor and examiner of the project are best positioned to assess the feasibility of this planning, as they are likely to be familiar with the methods that are being used and can estimate how much support is available to make the project a success. For the Literature Thesis, a similar judgment is best provided by the supervisor of the thesis.
 
+## Submit the planning in time
+One of the first steps in the project is writing a research proposal. This helps you make sense of the project and serves as evidence that you are starting the project effectively. As a consequence, not handing in the proposal in time is considered a measure of _not_ starting effectively. If a proposal is more than two weeks late, the duration of the project will be extended to make up for lost time.
+
 ## Adapt project if needed
 If things do not go according to plan, it is important to change the project so that it becomes more feasible within the existing time limits. Extending work beyond the deadline of the project means that the student suffers a study delay, which is often costly. It is not possible to increase the number of European Credits (EC) that the student receives for either the Literature Thesis or the Research Project and so if a project runs late, the student has to catch up or take additional time to graduate.
 
