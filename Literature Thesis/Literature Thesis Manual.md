@@ -3,17 +3,18 @@ The ability to review and synthesize information from a variety of sources is a 
 
 The Literature Thesis should not reflect original research by the student (unless it's research that the student already published it in a peer-reviewed journal), but instead collect, integrate and critically discuss existing work. This discussion should be directed towards resolving a problem or outstanding question that is identified in collaboration with the supervisor of the project. In addition, the thesis should address how the work under discussion relates to other fields of study.
 
-Importantly, the Literature Thesis should be _argumentative_: the student should take a clear position in a discussion related to the thesis topic and persuasively argue in favor of this position, while giving proper due to counterarguments. This means that the Literature Thesis revolves around an issue (related to the chosen topic) that can only be solved by careful, critical examination of existing literature. It is important that the supervisor of the project helps with this problem definition, to ensure it is properly arguable.
+Importantly, the Literature Thesis should be _argumentative_: the student should take a clear position in a discussion related to the thesis topic and persuasively argue in favour of this position, while giving proper consideration to counterarguments. This means that the Literature Thesis revolves around an issue (related to the chosen topic) that can only be solved by careful, critical examination of existing literature. It is important that the supervisor of the project helps with this problem definition, to ensure it is properly arguable.
 
 ## Learning objectives
 Through the process of writing this thesis the student demonstrates the ability to:
 
-1. Find, select and organise relevant literature from scientific journals in a non-biased manner
-2. Critically evaluate selected literature
-3. Write a well-structured literature review in academic English
-4. Define a clear position with regards to an important outstanding problem and substantiate that position
-5. Explain the relevance of the literature review in the broader field of brain and cognitive sciences
-6. Uphold a professional, scientific attitude (independence, time management & planning, scientific discussion, creativity, initiative, communication)
+1. Define a relevant researchable problem.
+2. Collect scholarly literature relevant to the problem statement in a systematic way
+3. Collaborate effectively with supervisors throughout the research process.
+4. Analyse a research problem spanning multiple disciplines within brain and cognitive sciences.
+5. Evaluate the strengths, weaknesses, biases, limitations, and underlying assumptions of empirical research on the topic.
+6. Justify a well-substantiated position on a research problem or question.
+7. Synthesise research findings and explain their interdisciplinary implications.
 
 The Literature Thesis is one the capstones of the programme that prepares students for a research career. If you are not familiar with the structure of MBCS, please read the [[../General/Introduction to the Capstones|Introduction to the Capstones]] first.
 
@@ -28,13 +29,16 @@ Given the diverse array of subjects and disciplines that fit within the programm
 
 If it proves difficult to choose a good length of the thesis, a useful heuristic is to follow the size of a review article in the respective field of expertise.
 
+### Timeline
+As mentioned above, projects vary in terms of workload distribution. Still, the most common pattern is for students to take one month to explore relevant literature and create a structure for their text, before spending another month on the writing process. Creating a work like this is an iterative process: writing will prompt new reading, but roughly speaking the reading and writing portions can be split into two distinct phases of equal duration.
+
 ### Content
 To promote interdisciplinary training, the content of the Literature Thesis should either:
 
 - Cover a problem in a discipline that is clearly distinct from that of the student's *Research Project 1* or
 - Combine insights from at least two clearly distinct disciplines
 
-In either case, the thesis should contain a reflection on how its main findings can be integrated with other disciplines.
+In either case, the thesis should cover how its main findings can be integrated with other disciplines.
 
 >[!help]
 >One common issue when recombining disciplines is demarcating where one discipline ends and another begins. In the end, disciplines are fluid, somewhat arbitrary constructs. See [[../Interdisciplinary research/Demarcating disciplines|here]] for some help on this demarcation problem and [[../Interdisciplinary research/Interdisciplinary integration|here]] for more details on interdisciplinary integration
@@ -44,10 +48,11 @@ The specific topic and problem statement of the Literature Thesis will influence
 1. A theoretical framework through which the subject of the thesis can be understood
 2. A problem statement (or alternatively, research question) that specifies an outstanding issue in the literature.
 3. A critical discussion of the existing literature, which leads to a distinct, substantiated position with regards to the problem statement or research question
-4. A section detailing how this position relates to other disciplines (i.e. how the position could contribute to the understanding in other fields or, reversely how other fields could contribute to the problem/question that has been discussed in the literature thesis). It is allowed to add this section as an appendix or epilogue to the main thesis if that improves the structure of the text.
+4. A section detailing how this position relates to other disciplines (i.e. how the position could contribute to the understanding in other fields or, reversely how other fields could contribute to the problem/question that has been discussed in the literature thesis). It is allowed to add this section as an appendix or epilogue to the main thesis if that improves the structure of the text, but you can also integrate the section into the body of your main text.
+5. A statement on GenAI use for purposes of transparency (see: [[../Miscellaneous/Use of GenAI in the capstones|Use of GenAI in the capstones]]).
 
 ### Structure of thesis
-The structure of the thesis should be determined via collaboration of student with supervisor. If unsure, the following structure can be used. But before you just copy that, do consider what you think the best structure for your literature thesis is.
+The structure of the thesis should be determined via collaboration of student with supervisor. If unsure, the following structure can be used. However, before you just copy that, do consider what you think the best structure for your literature thesis is.
 
 1. Abstract
 2. Introduction and definition of problem
@@ -57,7 +62,7 @@ The structure of the thesis should be determined via collaboration of student wi
 6. Conclusions
 7. References
 
-If it proves difficult to choose a fitting structure, a useful heuristic is to follow the structure of a review article in the respective field of expertise. Whichever structure and format you use, please make sure to follow the [[../Miscellaneous/Formatting and Publication Guidelines|Formatting and Publication Guidelines]] for the cover page of the thesis.
+Whichever structure and format you use, please make sure to follow the [[../Miscellaneous/Formatting and Publication Guidelines|Formatting and Publication Guidelines]] for the cover page of the thesis.
 
 ### Finding a topic
 There are various ways to find a proper problem statement or research question. For example, the following scenarios might apply:
@@ -130,7 +135,7 @@ Students looking for additional help with writing can also attend a workshop hos
 
 Another useful suggestion is to look for PhD students or other master students that work on a project related to yours (e.g. together with the supervisor). Often, these people can help you play with ideas in conversation or, whenever necessary, you can keep each other motivated and accountable.
 
-The programme also organizes a regular Literature Thesis Check-in, which serves as an intervision group for thesis writing. In addition, there is a dedicated Slack channel for the Literature Thesis. [Check the programme Canvas for more information](https://canvas.uva.nl/courses/6067/pages/literature-thesis).
+The programme also organizes a regular Literature Thesis Check-in, which serves as an intervision group for thesis writing. [Check the programme Canvas for more information](https://canvas.uva.nl/courses/6067/pages/literature-thesis).
 
 ## Grading
 The *Literature Thesis* is assessed by the examiner and the assessor, both of whom are chosen by the student at the start of the project. Once the student has uploaded a final version of their literature thesis, the examiner and assessor will receive an e-mail message with a link to the Datanose project page, where they can submit partial grades for registration on the basis of a grading rubric. This rubric is only visible on Datanose after students submit their work, but it can also be found [[./Grading Rubrics Literature Thesis|here]]. Note that the thesis is written at a second-year master's level and that students are held to high standards.

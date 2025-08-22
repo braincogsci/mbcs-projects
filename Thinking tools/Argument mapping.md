@@ -12,7 +12,11 @@ Still, there are digital tools that can be helpful to create neat argument maps.
 >[!note]
 >Argument maps are not be confused with [[./Causal maps|Causal maps]], which are summaries of [[mechanistic explanations|mechanistic explanations]]. Where argument maps visualize lines of reasoning behind a specific claim, causal maps visualize explanations of a specific phenomenon.
 
+## Tutorial on argument mapping
 
+If you do not know where to start when argument mapping, check this online tutorial:
+
+https://www.rationaleonline.com/explore/en/tutorials/tutorials/index.htm
 
 
 
