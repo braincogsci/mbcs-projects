@@ -26,34 +26,49 @@ When registering your project, Datanose will try to trick you. See this video on
 
 https://www.loom.com/share/f311ab6c85c94625864bc525aa2c6a02
 
+### I am having trouble finding an examiner. Can I start the project?
+
+Sometimes it is difficult to find an [[../Miscellaneous/Examiner|examiner]] who fits with your project and is willing to grade your work. If the starting date of your project arrived and you still have no examiner, you can indeed start working on the project to avoid losing time, but do note that you need an examiner to:
+
+1. have the project approved
+2. review your proposal one month after starting the project.
+
+This means that your ultimate deadline for finding an examiner is within one month of starting the project. Starting a project without an examiner does carry the risk of spending time on a project that is ultimately not approved. Also, handing in a proposal more than two weeks late leads to a [[../Miscellaneous/Project planning and delays|change in end date]].
 ### I have an Action on my Research Project page that says 'Upload Internship Agreement'. What does that mean?
-Sometimes students need to sign non-disclosure agreements or contracts with clauses about intellectual property. In these cases, higher education in the Netherlands uses a model agreement that is signed by the student, the hosting institute and the programme director. If such an agreement is applicable to your project, you are kindly asked to upload it via your Datanose project page. 
+If you do a project that is hosted outside of UvA, you will need to sign an internship agreement, drafted by the Dutch universities. See the following page for more information:
 
 For more on this agreement, see: https://student.uva.nl/en/topics/internship-agreement-and-arrangements
 
 Note that this model agreement also replaces the Nuffic agreement for non-EEU students.
 
+If you are not signing the model agreement because your project is hosted at UvA, you also do not have to upload an internship agreement.
 ### Isn't 42 hours a very odd number for a working week?
-It is and we will be honest: we don't really mind and would never be able to notice if you stick to 38 or 40 hours. But very technically, the Dutch academic calendar and the European Credits Transfer System (ECTS) lead to an expectation of 42 hours per week on learning. This follows from the fact that students are supposed to earn 60 EC in 40 weeks, or 1.5 EC/week. At 28 hours/EC, this leads to a workweek of 42 hours.
+It is and we will be honest: we don't really mind and would never be able to notice if you stick to 38 or 40 hours. But technically, the Dutch academic calendar and the European Credits Transfer System (ECTS) lead to an expectation of 42 hours per week on learning. This follows from the fact that students are supposed to earn 60 EC in 40 weeks, or 1.5 EC/week. At 28 hours/EC, this leads to a workweek of 42 hours.
 
-Our advice is to let that paper reality to be what it is and to stick to what's productive,  what keeps your progress on track and what is considered full-time by the hosting lab.
+Our advice is to let that paper reality to be what it is and to stick to what's productive, what keeps your progress on track and what is considered full-time by the hosting lab.
 ### My examiner's name has an appended exclamation mark on the Datanose project page. What do I do?
 If you've registered the project within the last three weeks and had to make a request for approval of the examiner, the exclamation mark indicates that the request is still being processed. If it is still there by the time you submit your research proposal, it might be that the examiner will not be approved. If you notice this, please contact info-mcs@uva.nl.
 
+### I need to seek ethical approval for my project
+In most cases, your project will be able to use the ethical approval of the overarching work done by your hosting lab. If this is not the case, you can submit your own request via the Research Management Service of the Faculty of Science. You can find that service here:
+
+https://rms.uva.nl/servicedesk/customer/portal/14
+
 ### There have been delays and now my project cannot be completed by its due date. What do I do?
 If you need to extend the deadline for your project, make sure to set a new one and contact your assessor and examiner so that they can plan accordingly for assessment. Under some circumstances you also need to inform the programme and study advisor. See the manual of your project for more details ont his.
-
 ### There have been delays and so I would like to receive additional ECs for the project. How do I do that?
-The EC value of a given project is based on the feasible "amount of learning" that was estimated during the proposal phase of your project. You cannot retroactively obtain additional ECs if you spend more hours on a project than was established at the start of the project.
+The EC value of a given project is based on the feasible "amount of learning" that was estimated during the proposal phase of your project. You cannot retroactively obtain additional ECs if you spend more hours on a project than was established at its start.
+### My project is ongoing and I obtained less than 30 EC during the rest of the year. Is this a problem?
 
+Students from outside the European Union have to obtain a specific amount of EC for their visa to be extended. If you did not manage to complete all your coursework, but you are working towards successful completion of your Research Project, it is possible to receive dispensation. See the following link for more information:
+
+https://www.uva.nl/en/education/practical-information/visas-and-permits/study-progress-monitoring.html#anker-dispensation
 ### I am trying to turn in my report for a Research Project and I have to upload slides. I never heard about uploading slides. Am I supposed to upload slides?
 You're not. Sometimes the Datanose team changes settings and we suddenly have the setting of a different programme. Please let us know if this situation occurs and we can get the Datanose team to fix it. If you are in a hurry, feel free to upload a mock slide deck.
-
 ### Why is the report for the Research Projects counting towards 50% of the final mark if I spent much more time and effort on experimental work?
 The validity of the report grade is considered to be higher, because we have two people assessing it. The experimental work, in contrast, is assessed by a single person. And we'd like the final mark of the project to be dominated by the most valid partial grade, which is why we opted for the 50%.
 
-As a more general rule (also in courses!) the weight of partial grades if never calculated by looking at the effort they require, but rather by looking at the importance of the learning objective(s) they measure and the validity by which they do so.
-
+As a more general rule (also in courses!) the weight of partial grades is never calculated by looking at the _effort_ they require, but rather by looking at the importance of the learning objective(s) they measure and the validity by which they do so.
 ### I do not agree with my final mark. What do I do?
 During a feedback meeting, the assessor and examiner should be able to explain their grading decisions. If you feel you deserve a lower or higher grade, you can discuss this with them and if there are good reasons, the assessment might change as a consequence
 
@@ -62,16 +77,18 @@ Once the grade of a project has been confirmed and registered on Datanose, it ca
 >[!note]
 >Please note the examiner has the best view of UvA grading practices, especially if a project is done abroad, where the grading culture might be different.>
 ### The manual for the Research Projects is too long and complicated, I won't read that. I am also not going to look at slides. How will I know how all of this works?
-Perhaps you just need to watch a recording of the information meeting? You will need to sign in with your UvA account to view it and someone needs to click an approve button from our end, but this will happen. Note the video doesn't cover _all the stuff_.
-
-<iframe src="https://amsuni-my.sharepoint.com/personal/v_tijms_uva_nl/_layouts/15/embed.aspx?UniqueId=a765d8e9-0f81-4981-ab68-093f48624b11&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create" width="640" height="360" frameborder="0" scrolling="no" allowfullscreen title="Research projects Info Meeting (Interntips).mp4"></iframe>
-
+The information meeting on Research Project is your best option!
 ### I think the assessment procedure did not happen as it should have and I have been graded unfairly. What do I do?
 If you have doubts about the grading procedure, you can contact the Examinations Board of the programme to have them review the situation. You can reach them via boardofexaminers-mbcs@uva.nl.
-
 ### I managed to get my work published and/or presented. Do you care?
 Congratulations! And yes, we care. We always like to track these things and so we'd appreciate it if you could submit the details via https://forms.office.com/e/xZtnGVLD60.
+### How can I use large language models when doing research or writing my thesis?
+See: [[../Miscellaneous/Use of GenAI in the capstones|Use of GenAI in the capstones]] for more information on UvA and MBCS policy.
+### I need to do statistics in my project, but I am not prepared for that. What do I do?
+Your supervisor should be able to point you in the right direction for resources related directly to your project. If that's not an option or you need additional help. you can also look into:
 
+- https://student.uva.nl/en/information/help-with-methods-and-statistics
+- https://www.uva.nl/en/shared-content/faculteiten/en/faculteit-der-natuurwetenschappen-wiskunde-en-informatica/news/2023/05/statistics-and-mathematics-advice-and-support-hub-smash-live.html
 # Examiner questions
 
 ### I am an examiner, what does that mean?
@@ -88,13 +105,11 @@ The first thing to do is contact the assessor to see what the origin of the diff
 If the assessment is in order, you can confirm it and neither you or the assessor will be able to change the grades submitted via Datanose. However, the result is not pushed to SIS, the central system that registers grades yet. This means that between confirmation and registration of the grade, you could still at your own accord contact the student about your decision, e.g. to provide closing remarks or discuss feedback. Once you register the grade, the student is informed about the result immediately.
 
 ### The grading rubrics listed on this website are different from those on the Datanose page. Which ones should I use?
-We update the grading rubrics over summer in Europe, but sometimes projects that were initiated before this time are finalised after this update. These projects still 'carry' the old grading rubrics. Similarly, sometimes there is a delay in deployment of our new rubrics.
+We update the grading rubrics over summer in Europe, but sometimes projects that were initiated before this time are finalised after such an update. These projects still 'carry' the old grading rubrics. Similarly, sometimes there is a delay in deployment of our new rubrics on Datanose.
 
 The best thing to do is use the rubrics as shown on Datanose, as these will fit with the project under consideration.
-
 ### I cannot join the public defence for a *Research Project 2*
 If this is the case, please contact the programme coordinator Vincent Tijms to think of a solution. 
-
 # Assessor questions
 
 ### The grading rubrics listed on this website are different from those on the Datanose page. Which ones should I use?
