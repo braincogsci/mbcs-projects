@@ -232,12 +232,14 @@ One month before the end of the project, the student will submit a draft version
 > [!note] Formatting guidelines
 > 
 > While you have discretion to adapt your work to the conventions in your field of choice, there are some formatting guidelines. See: [[../Miscellaneous/Formatting and Publication Guidelines|Formatting and Publication Guidelines]]
+> 
 ### Provide final report
 The student finalizes the Research Project by submitting a written report. This report consists of two parts:
 
 1. An article, following the structure and style of a journal that is relevant to the domain in which the student has worked. The student can decide on the specific format in collaboration with the supervisor.
 2. An appendix A, which contains a description of the personalised learning objective(s) and whether or how they were reached. If they were not reached, the student should indicate why
 3. An appendix B, which contains a reflection on ethical aspects of the research project. If not sure how to go about, the [[../Miscellaneous/Three Tier Model of Scientific Ethics|Three Tier Model of Scientific Ethics]] can help.
+4. An appendix C, offering transparency about any use of GenAI. If GenAI was not used during the project, the appendix can simply state this fact. See: [[../Miscellaneous/Use of GenAI in the capstones|Use of GenAI in the capstones]].
 
 The report can be submitted via the [[../Miscellaneous/Datanose project page|Datanose project page]].
 ### Perform public defence
