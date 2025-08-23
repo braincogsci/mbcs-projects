@@ -1,10 +1,13 @@
+## Introduction
+
 The individual projects (i.e. *Research Project 1*, *Research Project 2* and *Literature Thesis*) lead to written works of different kinds:
 
-- A technical report for *Research Project 1*
+- A [[../Research Project 1/Technical report|technical report]] for *Research Project 1*
 - A journal article for *Research Project 2*
 - A review paper for *Literature Thesis*
 
-The exact formatting and citation style can follow that of a respectable journal within the field of enquiry of the student. It is at the discretion of the student a supervisor to decide which journal to use. Yet for all written works, there are a few constraints.
+The exact formatting and citation style can follow that of a respectable journal within the field of enquiry of the student. It is at the discretion of the student a supervisor to decide which journal to use for _Research Project 2_. That being said, the following formatting and publication guidelines should be followed.
+
 ## Cover page
 For all projects, the written work must be submitted via the respective [[./Datanose project page|Datanose project page]] with a single cover page that includes:
 
@@ -18,8 +21,6 @@ For all projects, the written work must be submitted via the respective [[./Data
 	- Assessor
 	- Examiner
 
-An example cover page has been posted to the programme Canvas page.
-
 ## Publishing work
 In some cases, there will be the possibility to submit your Literature Thesis or Research Project report in a scientific journal. This is something we wholly encourage, but please note the following:
 
@@ -28,9 +29,10 @@ In some cases, there will be the possibility to submit your Literature Thesis or
 
 Taken together, it makes sense to write your report and then _rewrite_ it for publication with any co-authors.
 
-### Let us know!
-If you submit or publish a paper, do let us know! We collect the publications via: https://forms.office.com/e/xZtnGVLD60.
 ### Affiliation
 Please use the following affiliation when submitting work that is based on your master projects (possibly in conjunction with that of your hosting lab):
 
 >Research Master's Programme Brain and Cognitive Sciences, University of Amsterdam.
+
+### Let us know!
+If you submit or publish a paper, do let us know! We collect the publications via: https://forms.office.com/e/xZtnGVLD60.
