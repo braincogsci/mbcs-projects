@@ -1,3 +1,5 @@
+## Introduction
+
 After each research project, the student concludes with a report on the work that was done. For [[./Research Project 1 Manual|Research Project 1]], the report takes the form of a technical report. A technical report clearly communicates the findings from the project, provides recommendations for next steps and is readable at a glance for those with an interest in the project.
 
 ## Template
@@ -6,9 +8,7 @@ The following structure is recommended for writing a technical report.
 
 ### Title page
 
-Add a title page following the conventions listed here:
-
-https://www.mbcs-projects.nl/Miscellaneous/Formatting+and+Publication+Guidelines#Cover+page
+Add a title page following the conventions listed here: [[../Miscellaneous/Formatting and Publication Guidelines|Formatting and Publication Guidelines]]
 
 ### Summary
 Provide an overview of what you did, what you found and what you recommend on the basis of your findings.
