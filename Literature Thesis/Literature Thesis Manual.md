@@ -60,7 +60,8 @@ The structure of the thesis should be determined via collaboration of student wi
 4. Substantiated position with regards to problem
 5. Interdisciplinary reflection
 6. Conclusions
-7. References
+7. Disclosure of [[../Miscellaneous/Use of GenAI in the capstones|GenAI use]]
+8. References
 
 Whichever structure and format you use, please make sure to follow the [[../Miscellaneous/Formatting and Publication Guidelines|Formatting and Publication Guidelines]] for the cover page of the thesis.
 
