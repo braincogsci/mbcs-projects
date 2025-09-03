@@ -50,7 +50,7 @@ Note that full-time equivalence corresponds to a workload of 1.5 EC (42 hours) p
 6. In the final month of the project (or earlier if the supervisor deems this appropriate), the student will draft a [[./Technical report|technical report]] on the conducted research, on which the supervisor provides feedback. This draft should be as definitive as possible, so that meaningful feedback can be given. The student may not submit multiple drafts.
 7. Based on the feedback on this draft, the student will submit a final version to Datanose, which will be graded by both assessors. The student will also give an oral presentation (usually 20 to 30 minutes, plus 10 minutes Q&A, but this can be adapted to be in line with the mores of the hosting institute) about their project, during a meeting at which at least the internal assessor is present, but preferably in front of the research group. We recommend giving the presentation in the phase between draft report and final report, so that presentation feedback can also be used to finalise the report.
 8. To close off the project, student, assessor and examiner (and optionally, the supervisor) meet for a final feedback meeting to discuss assessment.
-9. The student then finalizes their project by submitting a response to the  [reflection form](https://forms.office.com/r/b5QbaKqjN1). This is a mandatory element, but not graded by the assessor or examiner.
+9. The student then finalizes their project by submitting a response to the [reflection form](https://forms.cloud.microsoft/e/Sa0RR9byLt). This is a mandatory element, but not graded by the assessor or examiner.
 # Formal setup of the project
 
 ## Roles
@@ -233,7 +233,7 @@ At the end of the project, the student presents the work that was done in front 
 The student finalizes the Research Project by submitting a technical report. A template for such a report can be found [[./Technical report|here]]. The report can be submitted via the [[../Miscellaneous/Datanose project page|Datanose project page]].
 
 ### Reflect on the process
-After _Research Project 1_ (but not _Research Project 2_), the student is expected to submit a reflection on the project. This should be done once the grade has been processed. The reflection yields personal learning objectives for _Research Project 2_. The reflection form is [here](https://forms.office.com/r/b5QbaKqjN1). It can only be accessed while logged in to a UvA account.
+After _Research Project 1_ (but not _Research Project 2_), the student is expected to submit a reflection on the project. This should be done once the grade has been processed. The reflection yields personal learning objectives for _Research Project 2_. The reflection form is [here](https://forms.cloud.microsoft/e/Sa0RR9byLt). It can only be accessed while logged in to a UvA account.
 # Grading
 Grading is based on three components: the experimental work, the final report on the project and the oral presentation on the project. Table 5 summarizes the different components, their relative contribution to the final grade and the minimum grade required per component. If a component is graded less than this minimum score, the project as a whole should be registered as 'NAV' (i.e. requirements not met).
 
