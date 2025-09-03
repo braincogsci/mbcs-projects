@@ -2,7 +2,6 @@
 >UvA policy on the use of generative artificial intelligence is under development and therefore subject to change. Make sure you check current policies via the resources listed below. 
 >
 >*This page was last updated on: 3-September-2025.*
-
 ## UvA policy
 
 For the most current University of Amsterdam (UvA) policies, see the student information page[^1] or, if you want more details, the Policy Framework GenAI in Education [^2]. There is also an e-learning module for students [^3]. 
