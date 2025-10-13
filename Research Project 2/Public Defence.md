@@ -1,8 +1,13 @@
-The Public Defence is a mandatory element in Research Project 2 (not in Research Project 1) that consists of an on-campus or online presentation during one of two MBCS Symposia organised by the programme. The main goal of the Public Defence is to allow students to show their work to their peers, connecting their work even in the second year, when there are few opportunities to work with their own cohort.
+The Public Defence is a mandatory element in *Research Project 2* (not in *Research Project 1*) that consists of an on-campus or online presentation during one of two MBCS Symposia organised by the programme. The main goal of the Public Defence is to allow students to show their work to their peers, connecting their work even in the second year, when there are few opportunities to work with their own cohort.
 
-The Symposia dates in 2025-2026 are: tba
+The Symposia dates in 2025-2026 are:
+
+- January 29
+- June 26
 
 Note that it is not necessary to have fully wrapped up your project for this presentation. It is okay to present work-in-progress, much like you would during a conference. The time for the presentation is limited, however: it is a 10-minute presentation!
+
+Students can sign up for the Symposium via: https://forms.office.com/e/JZi0XeuwkG
 
 ## Content
 The presentation should be 10 minutes long, with an additional 5 minute Q&A. Unlike the *Research Project 1* presentation, the project does not have to be (near) completion. Similar to the way a PhD candidate might present work in progress during a conference, the Public Defence can show the status of a project that is only halfway through.
