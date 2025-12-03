@@ -53,5 +53,5 @@ If you receive a no, make sure you:
 
 # Additional resources
 
-- Portal of research output from the Netherlands (DANS): https://dans.knaw.nl/en/data-services/narcis/
+- Netherlands Research Portal: https://netherlands.openaire.eu/
 
