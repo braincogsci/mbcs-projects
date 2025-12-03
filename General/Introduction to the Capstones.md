@@ -23,7 +23,9 @@ The combination of *Research Project 1* and *Research Project 2* should have the
 - [ ] Collection/review of scientific literature
 - [ ] Data analysis
 
-In other words, if one of these components is missing from one project, it should be included in another project.
+When submitting a research proposal one month into the project, the student is asked to indicate which of these aspects will be covered.
+
+Note that it is not always feasible to fit all these components into a single project. *Research Project 1* should focus on data acquisition and/or analysis, while *Research Project 2* should ideally cover the whole cycle. However, it is okay if only one of the two projects covers data acquisition or experimental design. Generating synthetic data does **not** count as data acquisition.
 
 For more details on the overall setup of the capstone projects, see the corresponding manuals:
 

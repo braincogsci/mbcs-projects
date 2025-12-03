@@ -217,7 +217,7 @@ After the starting date, the student has one month to prepare a research proposa
 4. Data acquisition
 5. Data analysis
 
-All these elements are required for *Research Project 2*, with the exception of data acquisition. This exception is only made if the student's *Research Project 1* already included data acquisition. Please note that simulated or synthetic data does not count as acquired data.
+It is not always feasible to fit all these components into a single project. *Research Project 1* should focus on data acquisition and/or analysis, while *Research Project 2* should ideally cover the whole cycle. It is okay if only one of the two project covers data acquisition or experimental design. Generating synthetic data does **not** count as data acquisition.
 
 When submitting the research proposal, the student is asked to indicate which of these aspects are covered.
 
@@ -238,7 +238,7 @@ The student finalizes the Research Project by submitting a written report. This 
 
 1. An article, following the structure and style of a journal that is relevant to the domain in which the student has worked. The student can decide on the specific format in collaboration with the supervisor.
 2. An appendix A, which contains a description of the personalised learning objective(s) and whether or how they were reached. If they were not reached, the student should indicate why
-3. An appendix B, which contains a reflection on ethical aspects of the research project. If not sure how to go about, the [[../Miscellaneous/Three Tier Model of Scientific Ethics|Three Tier Model of Scientific Ethics]] can help.
+3. An appendix B, which contains a reflection on ethical aspects of the research project. If not sure how to go about, the [[../Miscellaneous/Three Tier Model of Scientific Ethics|Three Tier Model of Scientific Ethics]] can help as a very rough orientation to research ethics.
 4. An appendix C, offering transparency about any use of GenAI. If GenAI was not used during the project, the appendix can simply state this fact. See: [[../Miscellaneous/Use of GenAI in the capstones|Use of GenAI in the capstones]].
 
 The report can be submitted via the [[../Miscellaneous/Datanose project page|Datanose project page]].

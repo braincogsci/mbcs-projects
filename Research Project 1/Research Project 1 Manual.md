@@ -1,10 +1,10 @@
 # Introduction
-This manual concerns the module *Research Project 1* for students from the master programme *Brain and Cognitive Sciences* (MBCS) at the University of Amsterdam (UvA). This manual was written to inform all involved parties about the requirements of the research project and about their role, whether student, supervisor, assessor or examiner.
+This manual concerns the module *Research Project 1* for students from the master programme *Brain and Cognitive Sciences* (MBCS) at the University of Amsterdam (UvA). This manual was written to inform all involved parties about the requirements of the research project and about their role, whether student, supervisor, assessor or examiner. If you are not familiar with the structure of MBCS, please read the [[../General/Introduction to the Capstones|Introduction to the Capstones]] first.
 
 >[!note]
 >Students from *Brain and Cognitive Sciences* form a multidisciplinary group and enter research projects at a wide range of hosting institutes. Some of them could work at logic departments, others might deal with fMRI data analysis and again others would do their work at neurobiology labs. These different hosts will emphasize different skills, but all of them prepare the students for work as a researcher.
 
-*Research Project 1* is one of the capstones of the programme, in which students acquire practical research experience and learn to work and think independently within a scientific environment. If you are not familiar with the structure of MBCS, please read the [[../General/Introduction to the Capstones|Introduction to the Capstones]] first.
+*Research Project 1* is one of the capstones of the programme, in which students acquire practical research experience and learn to work and think independently within a scientific environment. They perform experimental work (which may include data collection, or alternatively analyse data that was already obtained prior to the start of their project), write a technical report to share their findings and present their experience in the lab environment. 
 
 ## Intended learning outcomes
 During _Research Project 1_, the student is trained to reach eight intended learning outcomes, each of which contributes to a particular (set of) exit qualification(s) of the programme as a whole.
@@ -210,7 +210,7 @@ After the starting date, the student has one month to prepare a research proposa
 4. Data acquisition
 5. Data analysis
 
-For _Research Project 1_, the student is expected to engage in at least points 3 and in additional point 4 or 5. Project design *can* be part of _Research Project 1_, but is required only in _Research Project 2_. In the case data acquisition is not part of _Research Project 1_, it must be done in _Research Project 2_. Simulated or synthetic data does not count as data acquisition.
+It is not always feasible to fit all these components into a single project. *Research Project 1* should focus on data acquisition and/or analysis, while *Research Project 2* should ideally cover the whole cycle. It is okay if only one of the two project covers data acquisition or experimental design. Generating synthetic data does **not** count as data acquisition.
 
 When submitting the research proposal, the student is asked to indicate which of these aspects are covered by the respective project.
 
