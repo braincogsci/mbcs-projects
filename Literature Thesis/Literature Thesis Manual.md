@@ -1,9 +1,7 @@
 ## Introduction
 The ability to review and synthesize information from a variety of sources is a key skill for academic researchers. The module *Literature Thesis Brain and Cognitive Sciences* is an opportunity for students to practice and develop the skills that are necessary to give a state-of-the-art overview of existing research, on a topic of their choosing. 
 
-The Literature Thesis should not reflect original research by the student (unless it's research that the student already published it in a peer-reviewed journal), but instead collect, integrate and critically discuss existing work. This discussion should be directed towards resolving a problem or outstanding question that is identified in collaboration with the supervisor of the project. In addition, the thesis should address how the work under discussion relates to other fields of study.
-
-Importantly, the Literature Thesis should be _argumentative_: the student should take a clear position in a discussion related to the thesis topic and persuasively argue in favour of this position, while giving proper consideration to counterarguments. This means that the Literature Thesis revolves around an issue (related to the chosen topic) that can only be solved by careful, critical examination of existing literature. It is important that the supervisor of the project helps with this problem definition, to ensure it is properly arguable.
+The module consists of two components. The **thesis** (11 EC) is the main written product: a literature review structured around a self-chosen research problem, developed in collaboration with an academic supervisor. A second component (1 EC) prepares students for and tests the module's core synthesis skill: students complete an e-learning module on GenAI use in academic research, sit a practice exam with individual feedback, and then take the **final exam** — a four-hour timed essay on two novel empirical papers requiring synthesis of the findings and explanation of their interdisciplinary implications. The final exam is assessed on a pass/fail basis.
 
 ## Learning objectives
 Through the process of writing this thesis the student demonstrates the ability to:
@@ -20,38 +18,33 @@ The Literature Thesis is one the capstones of the programme that prepares studen
 
 For students who are unsure how to reach these objectives, make sure to read [[./Tips for success|Tips for success]].
 
-## About the thesis
-
-### Size of thesis
-All of this should be done in eight weeks full-time, or 336 hours (12 EC). The way these hours are spent will differ per discipline and per project. Sometimes the collection of sources will be especially time-consuming, other times the interpretation or comparison of sources will be the lion's share of the work. The supervisor and the student should make sure there is a planning that reflects the time limit. 
-
-Given the diverse array of subjects and disciplines that fit within the programme, there is no specific word count that should be reached. The important thing is that the workload of the thesis equals eight weeks full-time, whether this time is spent on collecting resources, interpreting contradictory results or critically discussing the meaning and implications of the body of research.
-
-If it proves difficult to choose a good length of the thesis, a useful heuristic is to follow the size of a review article in the respective field of expertise.
-
-### Timeline
-As mentioned above, projects vary in terms of workload distribution. Still, the most common pattern is for students to take one month to explore relevant literature and create a structure for their text, before spending another month on the writing process. Creating a work like this is an iterative process: writing will prompt new reading, but roughly speaking the reading and writing portions can be split into two distinct phases of equal duration.
+## Thesis requirements
 
 ### Content
-To promote interdisciplinary training, the content of the Literature Thesis should either:
 
-- Cover a problem in a discipline that is clearly distinct from that of the student's *Research Project 1* or
-- Combine insights from at least two clearly distinct disciplines
+The Literature Thesis should synthesize and evaluate published, peer-reviewed research. It should not reflect empirical research by the student (unless it's research that the student already published it in a peer-reviewed journal), but instead collect, integrate and critically discuss existing work. This discussion should be directed towards resolving a problem or outstanding question that is identified in collaboration with the supervisor of the project. In addition, the thesis should address how the work under discussion relates to other fields of study.
+
+Importantly, the Literature Thesis should be _argumentative_: the student should take a clear position in a discussion related to the thesis topic and make a principled case for why that position is the most defensible given the available evidence, while genuinely engaging with competing positions and counterarguments rather than merely noting that they exist. This means that the Literature Thesis revolves around an issue (related to the chosen topic) that can only be solved by careful, critical examination of existing literature. It is important that the supervisor of the project helps with this problem definition, to ensure it is properly arguable.
+
+This problem should satisfy either of the following constraints:
+
+- It covers a problem in a discipline that is clearly distinct from that of the student's *Research Project 1* and/or *Research Project 2*
+- It combines insights from at least two clearly distinct disciplines
 
 In either case, the thesis should cover how its main findings can be integrated with other disciplines.
 
 >[!help]
->One common issue when recombining disciplines is demarcating where one discipline ends and another begins. In the end, disciplines are fluid, somewhat arbitrary constructs. See [[../Interdisciplinary research/Demarcating disciplines|here]] for some help on this demarcation problem and [[../Interdisciplinary research/Interdisciplinary integration|here]] for more details on interdisciplinary integration
+>One common issue when recombining disciplines is demarcating where one discipline ends and another begins. In the end, disciplines are fluid, somewhat arbitrary constructs. See [[../Interdisciplinary research/Demarcating disciplines|here]] for some help on this demarcation problem and [[../Interdisciplinary research/Interdisciplinary integration|here]] for more details on interdisciplinary integration.
 
-The specific topic and problem statement of the Literature Thesis will influence what is the exact content that the thesis should address, but as a whole, the Literature Thesis should contain:
+The specific topic and problem statement of the Literature Thesis will influence the exact content that the thesis should address, but as a whole the Literature Thesis should contain:
 
 1. A theoretical framework through which the subject of the thesis can be understood
-2. A problem statement (or alternatively, research question) that specifies an outstanding issue in the literature.
+2. A problem statement (or alternatively, research question) that specifies an outstanding issue in the literature
 3. A critical discussion of the existing literature, which leads to a distinct, substantiated position with regards to the problem statement or research question
-4. A section detailing how this position relates to other disciplines (i.e. how the position could contribute to the understanding in other fields or, reversely how other fields could contribute to the problem/question that has been discussed in the literature thesis). It is allowed to add this section as an appendix or epilogue to the main thesis if that improves the structure of the text, but you can also integrate the section into the body of your main text.
-5. A statement on GenAI use for purposes of transparency (see: [[../Miscellaneous/Use of GenAI in the capstones|Use of GenAI in the capstones]]).
+4. A section detailing how this position relates to other disciplines — both how it could contribute to understanding in other fields and how other fields could qualify or challenge it. This section should go beyond noting that connections exist: it should explain specifically what the synthesis contributes to another field, and where disciplinary perspectives create tensions or lead to different conclusions rather than harmonious agreement. It is allowed to add this section as an appendix or epilogue to the main thesis if that improves the structure of the text, but you can also integrate the section into the body of your main text.
+5. A statement justifying choices about the use of GenAI during the research and writing process (see: [[../Miscellaneous/Use of GenAI in the capstones|Use of GenAI in the capstones]]). The statement should explain, with reference to the specific demands of the student's project, why the approach taken was appropriate — whether the student used GenAI tools or chose not to.
 
-### Structure of thesis
+### Structure
 The structure of the thesis should be determined via collaboration of student with supervisor. If unsure, the following structure can be used. However, before you just copy that, do consider what you think the best structure for your literature thesis is.
 
 1. Abstract
@@ -60,86 +53,118 @@ The structure of the thesis should be determined via collaboration of student wi
 4. Substantiated position with regards to problem
 5. Interdisciplinary reflection
 6. Conclusions
-7. Disclosure of [[../Miscellaneous/Use of GenAI in the capstones|GenAI use]]
+7. Justification of [[../Miscellaneous/Use of GenAI in the capstones|GenAI choices]]
 8. References
 
 Whichever structure and format you use, please make sure to follow the [[../Miscellaneous/Formatting and Publication Guidelines|Formatting and Publication Guidelines]] for the cover page of the thesis.
+
+## Planning
 
 ### Finding a topic
 There are various ways to find a proper problem statement or research question. For example, the following scenarios might apply:
 
 * The supervisor has a specific question that ties into her own research, and that she expects could be answered by critically evaluating existing research, which she has currently not explored yet. The student is put to the task of collecting, evaluating and synthesizing information to answer the specific question of the supervisor.
-* The student has been reading several reviews on a topic of interest and has remaining questions that warrant a larger exploration of the literature. In collaboration with the supervisor, the student formulates these questions in such a way that they can be satisfyingly answered through a thesis in eight weeks full-time.
+* The student has been reading several reviews on a topic of interest and has remaining questions that warrant a larger exploration of the literature. In collaboration with the supervisor, the student formulates these questions in such a way that they can be satisfyingly answered through a thesis in approximately six weeks full-time.
 * The student is contemplating a particular Research Project in the future, but setting up the associated experiments requires answering some theoretical questions that can be answered by reading up on the work of others. In collaboration with the supervisor, the student prepares for this future empirical work by writing a theoretical literature thesis.
 
-Note: the research question or problem statement of the *Literature Thesis* should be broad enough to justify spending 336 hours writing a paper on it (12 EC), but not so broad that the existing knowledge on the subject cannot be summarized in the time that is available. The supervisor is best positioned to estimate what a reasonable workload is. The purpose of the Literature Thesis is NOT additional analysis of existing data - it is the collection, evaluation and synthesis of published work that is being appraised via this assignment.
+Note: the research question or problem statement of the *Literature Thesis* should be broad enough to justify spending 308 hours writing a paper on it (11 EC), but not so broad that the existing knowledge on the subject cannot be summarized in the time that is available. The supervisor is best positioned to estimate what a reasonable workload is. The purpose of the Literature Thesis is NOT additional analysis of existing data sets - it is the collection, evaluation and synthesis of published work that is being appraised via this assignment.
 
-Students may choose a topic in which they have a special interest within the field of brain and cognitive sciences. This means the subject of the thesis can overlap with that of *Research Project 1* or *Research Project 2*. Work itself, however, should not overlap: writing the thesis means spending eight *additional* weeks working on a particular subject.
+Students may choose a topic in which they have a special interest within the field of brain and cognitive sciences. This means the subject of the thesis can overlap with that of *Research Project 1* or *Research Project 2*. Work itself, however, should not overlap: writing the thesis means spending seven *additional* weeks working on a particular subject.
+
+### Workload
+The thesis is 11 EC (308 hours), equivalent to approximately eight weeks of full-time work. The exam preparation and assessment component (e-learning, practice exam, and final exam) constitutes an additional 1 EC (28 hours), bringing the total module to 12 EC (336 hours). The way these hours are spent will differ per discipline and per project. Sometimes the collection of sources will be especially time-consuming, other times the interpretation or comparison of sources will be the lion's share of the work. The supervisor and the student should make sure there is a planning that reflects the time limit.
+
+Given the diverse array of subjects and disciplines that fit within the programme, the thesis has a maximum word count of 15,000 words (excluding references and appendices), but smaller counts are possible if appropriate for the thesis at hand.  The important thing is that the workload of the thesis reflects approximately seven weeks of full-time work, whether this time is spent on collecting resources, interpreting contradictory results or critically discussing the meaning and implications of the body of research.
+
+Please use your own judgment to determine word count or required amount of resources: different fields of study have different expectations. The following table can serve as a guideline for typical theses:
+
+| Activity                                                                       | Estimated hours |
+| ------------------------------------------------------------------------------ | :-------------: |
+| Finding appropriate supervision                                                |        1        |
+| Collecting review articles and identifying research question/problem statement |       15        |
+| Collecting research papers                                                     |       70        |
+| Organizing information                                                         |       52        |
+| (Preparing) meetings/communication with supervisor                             |        8        |
+| Writing draft                                                                  |       75        |
+| Writing final version                                                          |       14        |
+| **Thesis subtotal**                                                            |     **308**     |
+| E-learning: GenAI in academic research                                         |       ~8        |
+| Practice exam (incl. preparation and peer assessment)                          |       ~10       |
+| Final exam (incl. preparation)                                                 |       ~10       |
+| **Module total**                                                               |     **336**     |
+
+However, for any given project the hour division may differ from the indication given above. The student prepares a detailed planning and time schedule from the outset of the thesis project. Student and supervisor should agree on this planning before an extensive literature search or the actual writing is started.
+
+This planning involves:    
+- the time needed for a literature search and preliminary reading of key references   
+- the time needed for the actual writing of the thesis  
+- the timing of intermediate steps—first draft, integrating feedback, final version
+
+### Timeline
+As mentioned above, projects vary in terms of workload distribution. Still, the most common pattern is for students to take three weeks to explore relevant literature and create a structure for their text, before spending an additional month on the writing process. Creating a work like this is an iterative process: writing will prompt new reading, but roughly speaking the reading and writing portions can be split into two distinct phases of equal duration.
 
 ## Process
 The following steps determine the workflow of the Literature Thesis:
 
 - The student meets with a potential supervisor who has expertise on the topic of the student's interest. This supervisor can be identified and contacted by the student. The student is not expected to do a lot of preparatory reading for this meeting, or have an exact research question ready, but should have ideas about what to pursue and bring some potential (tentative) research questions. If it is established that supervisor and student are willing and able to collaborate on the thesis, there is a match in principle.
 - Once there is an agreement on the subject between student and supervisor and it is clear who will be the assessor and examiner of project, the student can [[../Miscellaneous/Registering projects|register the project]]. If the desired examiner is not listed on Datanose, the student can request for approval via the form listed in the section [[../Miscellaneous/Examiner|Examiner]]. For the formal constraints on supervisor, assessor and examiner, see the [[Literature Thesis Manual#Supervision and assessment|section below]].
-- The registration includes a time planning: it is possible to work on the thesis half-time, in which case writing the thesis takes 4 months in total, but the work on the thesis should not be stretched too thin: no student may work longer than 6 months on a specific Literature Thesis.
+- The registration includes a time planning: it is possible to work on the thesis half-time, in which case writing the thesis takes 3 months in total, but the work on the thesis should not be stretched too thin: no student may work longer than 6 months on a specific Literature Thesis.
 - After submission of the registration, The programme will review whether the proposed set-up fits within the scope and regulations of *Brain and Cognitive Sciences*. The examiner is also asked to confirm participation in the project.
-- Once approved, the thesis can be included into the MBCS curriculum as a *Literature Thesis Brain and Cognitive Sciences* (12 EC).
+- Once approved, the thesis can be included into the MBCS curriculum as the module *Literature Thesis Brain and Cognitive Sciences* (12 EC).
 - During writing, the student meets with the supervisor at least three additional times to discuss progress. If an outside view is useful, the student can also contact the assessor or examiner with specific questions.
 - Before submitting a final version, the student submits at least one draft version to the supervisor for feedback purposes. The supervisor may decide that multiple drafts are warranted, but should take care that the final product remains a valid reflection of the student's competences.
 - Upon completion, the student submits the thesis to [www.datanose.nl](http://www.datanose.nl).
 - Once the thesis has been submitted, the examiner will receive a link via e-mail through which the final grade for the work can be registered. See [the section on grading](Literature%2520Thesis%2520Manual.md##grading) for more information on the grading process.
+## Exam preparation and assessment
+As part of the *Literature Thesis* module, students complete three elements that together constitute the 1 EC exam component. All three must be completed to pass the component.
 
-## Supervision and assessment
-Two separate persons are involved in the assessment of the Literature Thesis: an assessor and an [[../Miscellaneous/Examiner|Examiner]]. One of these two will in addition be the supervisor of the thesis. A description of the roles and requirements is given in Table 1. Note that the requirement for the examiner is that this person is a senior researcher at UvA, as the examiner ultimately holds responsibility for the validity of the grade. The examiner should also be in the possession of a basic certification for teaching (BKO).
+### E-learning: GenAI in Academic Research
+*Completed before beginning the literature search*
+
+An online module introducing students to the use of AI tools in academic research, covering both practical application and critical awareness. Students can find this e-learning on the Literature Thesis Canvas page.
+
+### Practice exam and peer review
+Students sit a practice exam under conditions similar to the final exam: two empirical papers to read and synthesise in a timed essay. The practice exam uses the same rubric as the final exam. Completion of this component is compulsory.
+
+**Submission and peer review**: students submit their practice essay on Canvas at least three weeks before the final exam. They are then assigned to peer review groups of 4–5 students. Each student fills in the exam rubric for every other member of their group and provides written feedback. Peer review must be completed before the final exam. The entire process is managed on Canvas.
+
+The practice exam is not graded — it is a learning opportunity to develop synthesis and interdisciplinary thinking skills and to familiarise students with the exam format and standards.
+
+For the rubric used for peer review, see [[./Literature Thesis Exam Rubric|Literature Thesis Exam Rubric]].
+
+### Final exam
+*Completed near the end of the project*
+
+Students receive two novel empirical papers they have not previously read, chosen from three discipline-specific paper sets corresponding to the main tracks in the programme: cognitive science, cognitive neuroscience, and cognitive neurobiology. In four hours, students write an essay that reads and digests both papers, critically evaluates the work, and synthesises the findings into a coherent argument that addresses their interdisciplinary implications.
+
+The final exam is assessed on a **pass/fail** basis using the same rubric as the practice exam. A grade of Sufficient or above (≥5.5 on the Dutch scale) constitutes a pass. Students who do not pass may resit. For the grading rubric, see [[./Literature Thesis Exam Rubric|Literature Thesis Exam Rubric]].
+
+## Supervision and assessment of the thesis
+Two separate persons are involved in the assessment of the Literature Thesis: an assessor and an [[../Miscellaneous/Examiner|Examiner]]. One of these two will in addition be the supervisor of the thesis. A description of the roles and requirements is given in Table 1. Note that the requirement for the examiner is that this person is a senior researcher at UvA, as the examiner ultimately holds responsibility for the validity of the grade. The examiner should also be in the possession of a university teaching qualification (UTQ).
 
 **Table 1 - Roles, requirements and responsibilities for Literature Thesis**
 
-| Role       | Requirements                                                                                                                           | Responsibilities                                                                                                                                                                                                                                                            | Expected hours on project |
-| ---------- | -------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----------------------: |
-| Student    |                                                                                                                                        | <ul><li>Defines problem or question<li>Collects and analyzes literature<li>Writes thesis</ul>                                                                                                                                                                               |            336            |
-| Supervisor | <ul><li>Is either the assessor or the examiner</ul>                                                                                    | <ul><li>Guides the student through the writing of thesis, offering content expertise<li>Helps determine thesis problem statement/research question<li>Meets  with student <b>at least</b> four times during the writing process.<li>Provides feedback on draft version</ul> |            16             |
-| Assessor   | <ul><li>Must hold a doctoral degree<li>Must be from discipline/research group different from examiner's</ul>                           | <ul><li>Grades final work<li>Is available for specific questions about the subject of the thesis</ul>                                                                                                                                                                       |             4             |
-| Examiner   | <ul><li>Must hold a doctoral degree<li>Must have BKO<li>Must work at UvA<li>Must be from research group different from assessor's</ul> | <ul><li>Grades final work<li>Registers the grade for the project<li>Is available for specific questions about the subject of the thesis.</ul>                                                                                                                               |             4             |
+| Role       | Requirements                                                                                                                                 | Responsibilities                                                                                                                                                                                                                                                           | Expected hours on project |
+| ---------- | -------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----------------------: |
+| Student    |                                                                                                                                              | <ul><li>Defines problem or question<li>Collects and analyzes literature<li>Writes thesis</ul>                                                                                                                                                                              |            336            |
+| Supervisor | <ul><li>Is either the assessor or the examiner</ul>                                                                                          | <ul><li>Guides the student through the writing of thesis, offering content expertise<li>Helps determine thesis problem statement/research question<li>Meets with student <b>at least</b> four times during the writing process.<li>Provides feedback on draft version</ul> |            10             |
+| Assessor   | <ul><li>Must hold a doctoral degree<li>Must be from discipline/research group different from examiner's</ul>                                 | <ul><li>Grades final work</ul>                                                                                                                                                                                                                                             |             2             |
+| Examiner   | <ul><li>Must hold a doctoral degree<li>Must have UTQ (BKO)<li>Must work at UvA<li>Must be from research group different from assessor's</ul> | <ul><li>Grades final work<li>Registers the grade for the project</ul>                                                                                                                                                                                                      |             2             |
 
 Please note that the UvA staff member who is designated examiner is responsible for determining and submitting the final grade. Both the assessor and the examiner can log into [www.datanose.nl](http://www.datanose.nl) using a link that will be sent via e-mail once the student submits the final version of the thesis to the project portal on Datanose.nl. The examiner and assessor can then fill in the online grading form and submit the final grade. It is up to the examiner to review the grading and sign for the validity of the grade.
 
 In some cases, students will come to an agreement with an examiner who has not been approved by the Examinations Board of the research master *Brain and Cognitive Sciences* yet. If this happens, the particular examiner will not be selectable on Datanose. See the page [[../Miscellaneous/Examiner|Examiner]] for details on how a student can request approval of a new examiner.
 
-The student and supervisor should meet at least four times during the course of the writing: (1) to discuss the problem statement, (2) to discuss the outline of the thesis, (3) to discuss the first draft, and (4) to get feedback on the final version. The student is responsible for making these appointments with the supervisor and to prepare for the meetings. If so desired (and as long as it's reasonable), additional meetings or a different process are possible, but it should be kept in mind that the supervisor is expected to spend about 20 hours on the thesis and that reading a draft version, providing feedback on the draft version and grading the final version are included in these 20 hours.
+The student and supervisor should meet at least four times during the course of the writing: (1) to discuss the problem statement, (2) to discuss the outline of the thesis, (3) to discuss the first draft, and (4) to get feedback on the final version. The student is responsible for making these appointments with the supervisor and to prepare for the meetings. If so desired (and as long as it's reasonable), additional meetings or a different process are possible, but it should be kept in mind that the supervisor is expected to spend about 12 hours on the thesis and that reading a draft version, providing feedback on the draft version and grading the final version are included in these 12 hours.
 
-The supervisor is a content expert -- MBCS students are expected to be able to collect, analyse and synthesise literature relatively independently. Still, there are many situations where getting help from your peers or the programme can be helpful. To this end, the programme organizes check-ins for students writing their Literature Thesis and has a channel on the MBCS Slack dedicated to the thesis. See the [Literature Thesis page on Canvas for more details](https://canvas.uva.nl/courses/6067/pages/literature-thesis).
-
-## Delays
-In case the deadline for final submission as registered on Datanose is not going to be met by the student, the student is expected to contact the master's programme via info-mcs@uva.nl with an indication of the size of the delay. If the delay is more than one month, the student should also inform the study advisor of the programme and the examiner of the Literature Thesis. In this latter case, a motivation for the delay needs to be given. Based on this motivation, the examiner of the project may decide to set a new deadline together with the student or to mark the project as 'insufficient'. In the latter case, the project ends.
-
-If acceptable delays occur, it is important that the student sets a new submission date in mutual agreement with the assessor and examiner. This new date should be a realistic completion date and it should allow the assessor and examiner to grade within a period of twenty working days.
-
-If a student spends over the span of six months working on a Literature Thesis (i.e. the time between the starting date of the Literature Thesis and submission of the thesis is more than six months), it can no longer be graded in a valid manner. This means the work can still be assessed with the regular grading rubric, but registration of the grade will not be numerical. Instead, a 'pass' ('AVV') will  be registered. This is the case regardless of whether the Literature Thesis was written full-time or half-time.
-
-## Materials and support
-The literature that is used to write the Literature Thesis is collected by the students themselves. In principle, we expect students who have completed their bachelor's degree to be capable of writing an academic text independently. However, we recognize prior educations differ and experience with writing theses might be limited. One way to improve writing is via the course _Professional Skills - Scientific Writing_, which can also be used as an Elective in the research master _Brain and Cognitive Sciences._
-
-For those looking for more help with selecting or synthesising sources, the following books and articles may prove useful:
-
-- Burger, A. A. (2008). *The Academic Writer’s Toolkit* (1st ed.). New York: Routledge. 
-- Booth, W. C., Colomb, G. G., Williams, J. M., Bizup, J., & FitzGerald, W. T. (2016). *The Craft of Research* (4th ed.). Chicago: University of Chicago Press.
-- Pautasso, M. (2013). *Ten simple rules for writing a literature review*. PLoS Comput Biol, **9**(7), e1003149.
-- Siljee, K. (2019). *Je scriptie de baas*. Amsterdam: Amsterdam University Press.
-- Van der Zeeuw & van de Pavert. _Writing a Scientific Paper_ via [wetenschappelijkschrijven.nl](https://www.wetenschappelijkschrijven.nl/wasp)
-
-We strongly recommend using a citation manager (e.g. [Zotero](https://www.zotero.org)) when writing the *Literature Thesis*. This is helpful to stay organized and to collect notes on the papers you read. Being proficient with a citation manager is a useful academic skill in itself! Note that citation managers can often be coupled to an array of tools that are useful for literature search. Some examples are:
-
-- [Litmaps.com](https://www.litmaps.com), a tool to map citations and explore the published research space
-- [Obsidian](https://www.obsidian.md), a Markdown notekeeping tool
-
-Students looking for additional help with writing can also attend a workshop hosted by the [UvA Writing Centre](https://www.uva.nl/en/shared-content/studentensites/fgw/fgw-gedeelde-content/en/az/writing-centre/writing-centre.html). 
-
-Another useful suggestion is to look for PhD students or other master students that work on a project related to yours (e.g. together with the supervisor). Often, these people can help you play with ideas in conversation or, whenever necessary, you can keep each other motivated and accountable.
-
-The programme also organizes a regular Literature Thesis Check-in, which serves as an intervision group for thesis writing. [Check the programme Canvas for more information](https://canvas.uva.nl/courses/6067/pages/literature-thesis).
+The supervisor is a content expert -- MBCS students are expected to be able to collect, analyse and synthesise literature relatively independently.
 
 ## Grading
-The *Literature Thesis* is assessed by the examiner and the assessor, both of whom are chosen by the student at the start of the project. Once the student has uploaded a final version of their literature thesis, the examiner and assessor will receive an e-mail message with a link to the Datanose project page, where they can submit partial grades for registration on the basis of a grading rubric. This rubric is only visible on Datanose after students submit their work, but it can also be found [[./Grading Rubrics Literature Thesis|here]]. Note that the thesis is written at a second-year master's level and that students are held to high standards.
+The final grade for the *Literature Thesis* module (12 EC) is determined by the **thesis** (11 EC), graded on the Dutch 1–10 scale by the examiner and assessor using the grading rubric.
+
+The remaining 1 EC — covering the e-learning module, practice exam, and final exam — is assessed on a **pass/fail** basis. Students must complete the e-learning module, complete the practice exam and peer review, and achieve a grade of Sufficient or above (≥6) on the final exam. A failing mark on the 1 EC component means the module as a whole is not passed, regardless of the thesis grade.
+
+The thesis is assessed by the examiner and the assessor, both of whom are chosen by the student at the start of the project. Once the student has uploaded a final version of their literature thesis, the examiner and assessor will receive an e-mail message with a link to the Datanose project page, where they can submit partial grades for registration on the basis of a grading rubric. This rubric is only visible on Datanose after students submit their work, but it can also be found [[./Grading Rubrics Literature Thesis|here]]. Note that the thesis is written at a second-year master's level and that students are held to high standards.
 
 ### Workflow for grading
 The workflow for submitting and grading is as follows:
@@ -169,25 +194,33 @@ At the Faculty of Science of the University of Amsterdam, the grades for individ
 ### Insufficient performance
 If the student does not receive a passing grade for the Literature Thesis after assessment of the submitted work, it is not possible to repair the work on the basis of more feedback or instructions, as that would jeopardise the validity of the grade. Instead, the student must then redo the project as a whole, on the basis of a new problem statement or research question. This new thesis might also require the student to find a new thesis supervisor, as there is no requirement for any of the parties involved (assessor and examiner) to take on the second "resit" project.
 
-## Study load
-The workload of the *Literature Thesis* should amount to 336 hours in total. The distribution of these hours will vary per project. The student prepares a detailed planning and time schedule from the outset of the thesis project. Student and supervisor should agree on this planning before an extensive literature search or the actual writing is started.
+## Delays
+In case the deadline for final submission as registered on Datanose is not going to be met by the student, the student is expected to contact the master's programme via info-mcs@uva.nl with an indication of the size of the delay. If the delay is more than one month, the student should also inform the study advisor of the programme and the examiner of the Literature Thesis. In this latter case, a motivation for the delay needs to be given. Based on this motivation, the examiner of the project may decide to set a new deadline together with the student or to mark the project as 'insufficient'. In the latter case, the project ends.
 
-This planning involves:    
-- the time needed for a literature search and preliminary reading of key references   
-- the time needed for the actual writing of the thesis  
-- the timing of intermediate steps—first draft, integrating feedback, final version
+If acceptable delays occur, it is important that the student sets a new submission date in mutual agreement with the assessor and examiner. This new date should be a realistic completion date and it should allow the assessor and examiner to grade within a period of twenty working days.
 
-Please use your own judgment to determine word count or required amount of resources: different fields of study have different expectations. The following table can serve as a guideline for typical theses:
+If a student spends over the span of six months working on a Literature Thesis (i.e. the time between the starting date of the Literature Thesis and submission of the thesis is more than six months), it can no longer be graded in a valid manner. This means the work can still be assessed with the regular grading rubric, but registration of the grade will not be numerical. Instead, a 'pass' ('AVV') will  be registered. This is the case regardless of whether the Literature Thesis was written full-time or half-time.
 
-|Activity|Estimated hours|
-|---|:---:|
-|Finding appropriate supervision|1|
-|Collecting review articles and identifying research question/problem statement|20|
-|Collecting research papers|100|
-|Organizing information|75|
-|(Preparing) meetings/communication with supervisor|10|
-|Writing draft|110|
-|Writing final version|20|
-|Total|336|
+## Materials and support
+The literature that is used to write the Literature Thesis is collected by the students themselves. In principle, we expect students who have completed their bachelor's degree to be capable of writing an academic text independently. However, we recognize prior educations differ and experience with writing theses might be limited. One way to improve writing is via the course _Professional Skills - Scientific Writing_, which can also be used as an Elective in the research master _Brain and Cognitive Sciences._
 
-However, for any given project the hour division may differ from the indication given above. For any comments or questions about the supervision or assessment of the Literature Thesis, please [contact our offices via e-mail](mailto:info-mcs@uva.nl).
+For those looking for more help with selecting or synthesising sources, the following books and articles may prove useful:
+
+- Burger, A. A. (2008). *The Academic Writer's Toolkit* (1st ed.). New York: Routledge. 
+- Booth, W. C., Colomb, G. G., Williams, J. M., Bizup, J., & FitzGerald, W. T. (2016). *The Craft of Research* (4th ed.). Chicago: University of Chicago Press.
+- Pautasso, M. (2013). *Ten simple rules for writing a literature review*. PLoS Comput Biol, **9**(7), e1003149.
+- Siljee, K. (2019). *Je scriptie de baas*. Amsterdam: Amsterdam University Press.
+- Van der Zeeuw & van de Pavert. _Writing a Scientific Paper_ via [wetenschappelijkschrijven.nl](https://www.wetenschappelijkschrijven.nl/wasp)
+
+We strongly recommend using a citation manager (e.g. [Zotero](https://www.zotero.org)) when writing the *Literature Thesis*. This is helpful to stay organized and to collect notes on the papers you read. Being proficient with a citation manager is a useful academic skill in itself! Note that citation managers can often be coupled to an array of tools that are useful for literature search. Some examples are:
+
+- [Litmaps.com](https://www.litmaps.com), a tool to map citations and explore the published research space
+- [Obsidian](https://www.obsidian.md), a Markdown notekeeping tool
+
+When using GenAI chatbots, we recommend using [UvA AI Chat](https://aichat.uva.nl/chat), which was developed by UvA itself to allow access to popular large language models while maintaining data security and privacy.                  
+
+Students looking for additional help with writing can also attend a workshop hosted by the [UvA Writing Centre]([https://www.uva.nl/en/shared-content/studentensites/fgw/fgw-gedeelde-content/en/az/writing-centre/writing-centre.html](https://intt.uva.nl/language-training/writing-centre/writing-centre.html)). 
+
+Another useful suggestion is to look for PhD students or other master students that work on a project related to yours (e.g. together with the supervisor). Often, these people can help you play with ideas in conversation or, whenever necessary, you can keep each other motivated and accountable.
+
+For any comments or questions about the supervision or assessment of the Literature Thesis, please [contact our offices via e-mail](mailto:info-mcs@uva.nl).
