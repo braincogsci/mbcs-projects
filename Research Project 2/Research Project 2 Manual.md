@@ -303,7 +303,7 @@ Given the large size of the Research Projects, failing one will lead to a sizabl
 ## Resit and repair options
 At the halfway point of the research project, a Midterm Evaluation takes place that should establish the level of performance of the student and provide actionable feedback. The period after this Midterm Evaluation offers an opportunity for the student to improve where necessary.
 
-If the Midterm Evaluation indicates that student performance is subpart, to the extent that the student will fail without improvement, this should be clearly indicated. The second half of the project can then be used by the student as an opportunity to "repair". If performance remains too low, the student can be considered to have failed this "repair" opportunity.
+If the Midterm Evaluation indicates that student performance is subpar, to the extent that the student will fail without improvement, this should be clearly indicated. The second half of the project can then be used by the student as an opportunity to "repair". If performance remains too low, the student can be considered to have failed this "repair" opportunity.
 
 In exceptional cases, poor performance may only be noticed at a late stage. For example, the experimental work by a student might be in order, while the written report is wholly insufficient. In such cases, the student can be given the option to resubmit the written report as an option to repair. If this happens, the maximum grade that can be given for the report is a 6.0.
 
