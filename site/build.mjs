@@ -1,6 +1,7 @@
 // Builds the notes in this repo into a static site that mimics the old Obsidian Publish site.
 // Usage: node site/build.mjs   (output in ./_site)
 import fs from "node:fs";
+import crypto from "node:crypto";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 import MarkdownIt from "markdown-it";
@@ -28,6 +29,9 @@ const assets = []; // relative paths
   }
 })(root);
 assets.push("mbcs.png", "mbcs-dark.png"); // logos live in site/
+
+// cache-busting version for css/js, so browsers never combine new HTML with old styles
+const ver = crypto.createHash("md5").update(fs.readFileSync(path.join(root, "site/style.css"))).update(fs.readFileSync(path.join(root, "site/site.js"))).digest("hex").slice(0, 8);
 
 const warnings = []; // broken links etc., reported at the end of the build
 const warn = (msg) => warnings.push(msg);
@@ -142,7 +146,8 @@ function page({ title, body, headings, rel }) {
 <meta name="robots" content="noindex">
 <title>${esc(title)} - ${SITE_NAME}</title>
 <link rel="icon" href="${BASE}/mbcs.png">
-<link rel="stylesheet" href="${BASE}/style.css">
+<style>.logo-dark{display:none}:root[data-theme=dark] .logo-light{display:none}:root[data-theme=dark] .logo-dark{display:block}</style>
+<link rel="stylesheet" href="${BASE}/style.css?v=${ver}">
 <script>try{var t=localStorage.getItem("site-theme")||"system";if(t==="system")t=matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light";document.documentElement.dataset.theme=t;if(localStorage.getItem("nav-collapsed")==="1")document.documentElement.classList.add("nav-collapsed")}catch(e){}</script>
 </head>
 <body>
@@ -163,7 +168,7 @@ function page({ title, body, headings, rel }) {
 </main>
 ${outline}
 <script>window.BASE="${BASE}"</script>
-<script src="${BASE}/site.js"></script>
+<script src="${BASE}/site.js?v=${ver}"></script>
 ${body.includes('class="mermaid"') ? `<script type="module">import m from "https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs";m.initialize({startOnLoad:false,theme:document.documentElement.dataset.theme==="dark"?"dark":"default"});m.run();</script>` : ""}
 </body>
 </html>`;
@@ -204,7 +209,8 @@ for (const [from, to] of Object.entries(redirects)) {
 // root redirects to the index note
 const target = urlOf(INDEX);
 write("index.html", `<!doctype html><meta charset="utf-8"><meta http-equiv="refresh" content="0; url=${target}"><script>location.replace("${target}")</script><a href="${target}">${SITE_NAME}</a>`);
-write("404.html", `<!doctype html><meta charset="utf-8"><title>Not found - ${SITE_NAME}</title><link rel="stylesheet" href="${BASE}/style.css"><main style="margin:4rem auto;max-width:30rem;padding:1rem"><h1>Page not found</h1><p><a href="${target}">Go to ${SITE_NAME}</a></p></main>`);
+write("404.html", `<!doctype html><meta charset="utf-8"><title>Not found - ${SITE_NAME}</title><style>.logo-dark{display:none}:root[data-theme=dark] .logo-light{display:none}:root[data-theme=dark] .logo-dark{display:block}</style>
+<link rel="stylesheet" href="${BASE}/style.css?v=${ver}"><main style="margin:4rem auto;max-width:30rem;padding:1rem"><h1>Page not found</h1><p><a href="${target}">Go to ${SITE_NAME}</a></p></main>`);
 write("search.json", JSON.stringify(searchIndex));
 write(".nojekyll", "");
 for (const a of assets) write(a, fs.readFileSync(path.join(root, a.startsWith("mbcs") ? "site/" + a : a)));
