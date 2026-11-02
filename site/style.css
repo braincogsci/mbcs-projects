@@ -35,7 +35,7 @@ a{color:var(--accent)}
 .tree li.file a:hover{color:var(--text)}
 .tree li.active a{color:var(--accent)}
 main{margin-left:var(--sidebar);padding:40px 48px 60px;min-height:100vh}
-.markdown{max-width:720px}
+.markdown>*{max-width:720px}
 .page-title{font-size:2.1rem;line-height:1.2;margin:0 0 1.5rem}
 .markdown h2{font-size:1.6rem;margin:1.8em 0 .5em}
 .markdown h3{font-size:1.3rem;margin:1.5em 0 .4em}
@@ -46,8 +46,8 @@ main{margin-left:var(--sidebar);padding:40px 48px 60px;min-height:100vh}
 .markdown pre code{background:none;padding:0}
 .markdown pre.mermaid{background:none;text-align:center}
 .markdown blockquote{margin:1em 0;padding:0 0 0 1em;border-left:3px solid var(--accent);color:var(--muted)}
-.markdown table{border-collapse:collapse;display:block;overflow-x:auto;margin:1em 0;font-size:.92rem}
-.markdown th,.markdown td{border:1px solid var(--border);padding:6px 10px;vertical-align:top}
+.markdown>table{border-collapse:collapse;display:table;width:100%;max-width:none;margin:1em 0;font-size:.92rem}
+.markdown th,.markdown td{border:1px solid var(--border);padding:6px 10px;vertical-align:top;overflow-wrap:break-word;min-width:5.5em}
 .markdown th{background:var(--bg2)}
 .markdown hr{border:0;border-top:1px solid var(--border);margin:2em 0}
 .unresolved{color:var(--muted)}
@@ -69,7 +69,9 @@ main{margin-left:var(--sidebar);padding:40px 48px 60px;min-height:100vh}
 .outline .l4 a{padding-left:30px}
 footer{margin-top:4rem;color:var(--muted);font-size:.75rem;text-align:right}
 .menu-btn{display:none}
+@media(min-width:1301px){main{padding-right:290px}}
 @media(max-width:1300px){.outline{display:none}}
+@media(max-width:1100px){.markdown>table{display:block;overflow-x:auto}}
 @media(max-width:800px){
  .sidebar{transform:translateX(-100%);transition:transform .2s;z-index:10;width:min(var(--sidebar),85vw)}
  .nav-open .sidebar{transform:none}
