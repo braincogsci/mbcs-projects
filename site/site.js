@@ -9,6 +9,13 @@
     try { localStorage.setItem("site-theme", t); } catch (e) {}
   });
 
+  var btn = document.getElementById("menu-btn");
+  btn.addEventListener("click", function () {
+    if (window.innerWidth <= 800) { document.body.classList.toggle("nav-open"); return; }
+    var c = root.classList.toggle("nav-collapsed");
+    try { localStorage.setItem("nav-collapsed", c ? "1" : "0"); } catch (e) {}
+  });
+
   var active = document.querySelector(".tree li.active");
   if (active) active.scrollIntoView({ block: "nearest" });
 

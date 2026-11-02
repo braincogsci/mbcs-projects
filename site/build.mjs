@@ -143,10 +143,10 @@ function page({ title, body, headings, rel }) {
 <title>${esc(title)} - ${SITE_NAME}</title>
 <link rel="icon" href="${BASE}/mbcs.png">
 <link rel="stylesheet" href="${BASE}/style.css">
-<script>try{var t=localStorage.getItem("site-theme")||"system";if(t==="system")t=matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light";document.documentElement.dataset.theme=t}catch(e){}</script>
+<script>try{var t=localStorage.getItem("site-theme")||"system";if(t==="system")t=matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light";document.documentElement.dataset.theme=t;if(localStorage.getItem("nav-collapsed")==="1")document.documentElement.classList.add("nav-collapsed")}catch(e){}</script>
 </head>
 <body>
-<button class="menu-btn" aria-label="Menu" onclick="document.body.classList.toggle('nav-open')">&#9776;</button>
+<button class="menu-btn" id="menu-btn" aria-label="Show or hide the menu" title="Show or hide the menu"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="4" width="18" height="16" rx="2"/><path d="M9 4v16"/></svg></button>
 <nav class="sidebar">
   <a class="logo" href="${urlOf(INDEX)}"><img src="${BASE}/mbcs.png" alt="MBCS"></a>
   <a class="site-name" href="${urlOf(INDEX)}">${SITE_NAME}</a>
