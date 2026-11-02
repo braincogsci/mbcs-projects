@@ -145,7 +145,7 @@ function page({ title, body, headings, rel }) {
 <nav class="sidebar">
   <a class="logo" href="${urlOf(INDEX)}"><img src="${BASE}/mbcs.png" alt="MBCS"></a>
   <a class="site-name" href="${urlOf(INDEX)}">${SITE_NAME}</a>
-  <label class="theme-toggle" title="Toggle theme"><input type="checkbox" id="theme"><span class="slider"></span></label>
+  <label class="theme-toggle" title="Toggle theme"><input type="checkbox" id="theme"><span class="slider"><svg class="i-sun" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="4.2"/><path d="M12 2v2.5M12 19.5V22M2 12h2.5M19.5 12H22M4.9 4.9l1.8 1.8M17.3 17.3l1.8 1.8M4.9 19.1l1.8-1.8M17.3 6.7l1.8-1.8"/></svg><svg class="i-moon" viewBox="0 0 24 24" aria-hidden="true"><path d="M20 14.5A8.5 8.5 0 0 1 9.5 4a8.5 8.5 0 1 0 10.5 10.5z"/></svg></span></label>
   <div class="search"><input id="q" type="search" placeholder="Search page or heading..." autocomplete="off"><ul id="results"></ul></div>
   <div class="tree">${renderTree(tree, rel)}</div>
 </nav>
@@ -165,8 +165,8 @@ ${body.includes('class="mermaid"') ? `<script type="module">import m from "https
 }
 
 // ---- build ----
-fs.rmSync(out, { recursive: true, force: true });
 fs.mkdirSync(out, { recursive: true });
+for (const e of fs.readdirSync(out)) fs.rmSync(path.join(out, e), { recursive: true, force: true });
 const write = (rel, data) => {
   const p = path.join(out, rel);
   fs.mkdirSync(path.dirname(p), { recursive: true });
