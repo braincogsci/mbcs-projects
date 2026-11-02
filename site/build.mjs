@@ -75,6 +75,34 @@ md.renderer.rules.heading_open = (tokens, idx, o, env, self) => {
   return defaultHeadOpen(tokens, idx, o, env, self);
 };
 
+// Plain Markdown links/images with relative paths, e.g. [x](../Folder/Note.md#Heading) or ![](pic.png),
+// so notes can also be written without Obsidian's [[wikilink]] syntax.
+md.core.ruler.push("relative-links", (state) => {
+  const rel = state.env.rel;
+  const dir = path.posix.dirname(rel);
+  for (const block of state.tokens) {
+    for (const t of block.children || []) {
+      const attr = t.type === "link_open" ? "href" : t.type === "image" ? "src" : null;
+      const v = attr && t.attrGet(attr);
+      if (!v || /^([a-z][a-z0-9+.-]*:|\/|#)/i.test(v)) continue; // external, absolute or in-page
+      const [p, hash] = v.split("#");
+      let target = p;
+      try { target = decodeURIComponent(p); } catch {}
+      const full = path.posix.normalize(path.posix.join(dir, target));
+      const note = byLower.get(full.replace(/\.md$/i, "").toLowerCase());
+      if (note && /(\.md)?$/i.test(target) && !IMG.test(target)) {
+        let h = "";
+        if (hash) { try { h = "#" + slug(decodeURIComponent(hash)); } catch { h = "#" + slug(hash); } }
+        t.attrSet(attr, urlOf(note.rel) + h);
+      } else if (assets.includes(full)) {
+        t.attrSet(attr, urlOf(full));
+      } else if (/\.md$/i.test(target) || IMG.test(target)) {
+        warn(`${rel}.md: link to a file that does not exist: ${v}`);
+      }
+    }
+  }
+});
+
 function preprocess(src, rel) {
   src = src.replace(/^---\r?\n[\s\S]*?\r?\n---\r?\n/, ""); // frontmatter
   src = src.replace(/!\[\[([^\]|]+)(?:\|([^\]]*))?\]\]/g, (_, target, alt) => {
@@ -186,7 +214,7 @@ const write = (rel, data) => {
 const searchIndex = [];
 for (const n of notes) {
   const src = fs.readFileSync(n.file, "utf8");
-  const env = { headings: [] };
+  const env = { headings: [], rel: n.rel };
   const body = callouts(md.render(preprocess(src, n.rel), env));
   const title = path.posix.basename(n.rel);
   write(n.rel + ".html", page({ title, body, headings: env.headings, rel: n.rel }));
