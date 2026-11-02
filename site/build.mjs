@@ -27,7 +27,7 @@ const assets = []; // relative paths
     else if (IMG.test(e.name)) assets.push(rel);
   }
 })(root);
-assets.push("mbcs.png");
+assets.push("mbcs.png", "mbcs-dark.png"); // logos live in site/
 
 const warnings = []; // broken links etc., reported at the end of the build
 const warn = (msg) => warnings.push(msg);
@@ -148,7 +148,7 @@ function page({ title, body, headings, rel }) {
 <body>
 <button class="menu-btn" id="menu-btn" aria-label="Show or hide the menu" title="Show or hide the menu"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="4" width="18" height="16" rx="2"/><path d="M9 4v16"/></svg></button>
 <nav class="sidebar">
-  <a class="logo" href="${urlOf(INDEX)}"><img src="${BASE}/mbcs.png" alt="MBCS"></a>
+  <a class="logo" href="${urlOf(INDEX)}"><img class="logo-light" src="${BASE}/mbcs.png" alt="MBCS"><img class="logo-dark" src="${BASE}/mbcs-dark.png" alt="MBCS"></a>
   <a class="site-name" href="${urlOf(INDEX)}">${SITE_NAME}</a>
   <label class="theme-toggle" title="Toggle theme"><input type="checkbox" id="theme"><span class="slider"><svg class="i-sun" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="4.2"/><path d="M12 2v2.5M12 19.5V22M2 12h2.5M19.5 12H22M4.9 4.9l1.8 1.8M17.3 17.3l1.8 1.8M4.9 19.1l1.8-1.8M17.3 6.7l1.8-1.8"/></svg><svg class="i-moon" viewBox="0 0 24 24" aria-hidden="true"><path d="M20 14.5A8.5 8.5 0 0 1 9.5 4a8.5 8.5 0 1 0 10.5 10.5z"/></svg></span></label>
   <div class="search"><input id="q" type="search" placeholder="Search page or heading..." autocomplete="off"><ul id="results"></ul></div>
@@ -207,7 +207,7 @@ write("index.html", `<!doctype html><meta charset="utf-8"><meta http-equiv="refr
 write("404.html", `<!doctype html><meta charset="utf-8"><title>Not found - ${SITE_NAME}</title><link rel="stylesheet" href="${BASE}/style.css"><main style="margin:4rem auto;max-width:30rem;padding:1rem"><h1>Page not found</h1><p><a href="${target}">Go to ${SITE_NAME}</a></p></main>`);
 write("search.json", JSON.stringify(searchIndex));
 write(".nojekyll", "");
-for (const a of assets) write(a, fs.readFileSync(path.join(root, a === "mbcs.png" ? "site/mbcs.png" : a)));
+for (const a of assets) write(a, fs.readFileSync(path.join(root, a.startsWith("mbcs") ? "site/" + a : a)));
 for (const f of ["style.css", "site.js"]) write(f, fs.readFileSync(path.join(root, "site", f)));
 console.log(`Built ${notes.length} pages, ${assets.length} assets -> ${out}`);
 
