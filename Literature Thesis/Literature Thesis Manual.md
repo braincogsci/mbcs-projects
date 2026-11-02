@@ -114,7 +114,7 @@ The following steps determine the workflow of the Literature Thesis:
 - During writing, the student meets with the supervisor at least three additional times to discuss progress. If an outside view is useful, the student can also contact the assessor or examiner with specific questions.
 - Before submitting a final version, the student submits at least one draft version to the supervisor for feedback purposes. The supervisor may decide that multiple drafts are warranted, but should take care that the final product remains a valid reflection of the student's competences.
 - Upon completion, the student submits the thesis to [www.datanose.nl](http://www.datanose.nl).
-- Once the thesis has been submitted, the examiner will receive a link via e-mail through which the final grade for the work can be registered. See [the section on grading](Literature%2520Thesis%2520Manual.md##grading) for more information on the grading process.
+- Once the thesis has been submitted, the examiner will receive a link via e-mail through which the final grade for the work can be registered. See [the section on grading](Literature%20Thesis%20Manual.md#Grading) for more information on the grading process.
 ## Exam preparation and assessment
 As part of the *Literature Thesis* module, students complete three elements that together constitute the 1 EC exam component. All three must be completed to pass the component.
 

@@ -120,7 +120,7 @@ Folders `site/`, `.github/` and `node_modules/`, and any folder whose name start
 ## Domain and hosting (technical)
 
 - Domain registered at TransIP. DNS is managed in **Cloudflare** (the TransIP DNS screen is not used).
-- `www` is a CNAME to `braincogsci.github.io` (DNS only, not proxied). The bare domain has four A records pointing to GitHub Pages (`185.199.108.153` to `.111.153`).
+- `www` is a CNAME to `braincogsci.github.io` (DNS only, not proxied). The bare domain `mbcs-projects.nl` has four `A` records (`185.199.108.153`, `185.199.109.153`, `185.199.110.153`, `185.199.111.153`) and four `AAAA` records for IPv6 (`2606:50c0:8000::153`, `2606:50c0:8001::153`, `2606:50c0:8002::153`, `2606:50c0:8003::153`), all pointing to GitHub Pages and all DNS only. Any other `A` or `AAAA` record for the bare domain (such as an old TransIP address) would send some visitors to the wrong server.
 - The old Obsidian Publish site is no longer used.
 
 ## Running it locally (optional)
