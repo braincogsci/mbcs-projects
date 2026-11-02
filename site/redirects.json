@@ -1,0 +1,4 @@
+{
+  "_comment": "Map old page paths to new ones when you move or rename a note, so old links keep working. Format: \"Old folder/Old name\": \"New folder/New name\" (no .md). Keys starting with _ are ignored.",
+  "Midterm Evaluation": "Miscellaneous/Midterm Evaluation"
+}

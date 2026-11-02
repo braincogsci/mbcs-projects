@@ -29,6 +29,9 @@ const assets = []; // relative paths
 })(root);
 assets.push("mbcs.png");
 
+const warnings = []; // broken links etc., reported at the end of the build
+const warn = (msg) => warnings.push(msg);
+
 const byLower = new Map(notes.map((n) => [n.rel.toLowerCase(), n]));
 const byName = new Map();
 for (const n of notes) byName.set(path.posix.basename(n.rel).toLowerCase(), n);
@@ -72,6 +75,7 @@ function preprocess(src, rel) {
   src = src.replace(/^---\r?\n[\s\S]*?\r?\n---\r?\n/, ""); // frontmatter
   src = src.replace(/!\[\[([^\]|]+)(?:\|([^\]]*))?\]\]/g, (_, target, alt) => {
     const a = resolveAsset(target, rel);
+    if (!a) warn(`${rel}.md: embedded file not found: ![[${target}]]`);
     return a ? `![${alt || ""}](${urlOf(a)})` : "";
   });
   src = src.replace(/\[\[([^\]]+)\]\]/g, (_, inner) => {
@@ -79,6 +83,7 @@ function preprocess(src, rel) {
     const [target, heading] = link.split("#");
     const n = target ? resolveNote(target, rel) : { rel };
     const label = text || (heading ? `${target} > ${heading}` : target);
+    if (!n) warn(`${rel}.md: link to a note that does not exist: [[${inner}]]`);
     if (!n) return `<span class="unresolved">${esc(label)}</span>`;
     return `<a class="internal-link" href="${urlOf(n.rel)}${heading ? "#" + slug(heading) : ""}">${esc(label)}</a>`;
   });
@@ -183,6 +188,19 @@ for (const n of notes) {
   write(n.rel + "/index.html", page({ title, body, headings: env.headings, rel: n.rel }));
   searchIndex.push({ t: title, u: urlOf(n.rel), h: env.headings.map((h) => ({ t: h.text, i: h.id })) });
 }
+// redirects for moved/renamed pages: site/redirects.json maps "Old/Path" -> "New/Path" (no .md)
+const redirectsFile = path.join(root, "site", "redirects.json");
+const redirects = fs.existsSync(redirectsFile) ? JSON.parse(fs.readFileSync(redirectsFile, "utf8")) : {};
+for (const [from, to] of Object.entries(redirects)) {
+  if (from.startsWith("_")) continue; // keys starting with _ are comments
+  if (!byLower.has(to.toLowerCase())) { warn(`site/redirects.json: target page does not exist: ${to}`); continue; }
+  if (byLower.has(from.toLowerCase())) { warn(`site/redirects.json: "${from}" still exists as a page, redirect ignored`); continue; }
+  const dest = urlOf(to);
+  const html = `<!doctype html><meta charset="utf-8"><title>Moved</title><meta http-equiv="refresh" content="0; url=${dest}"><link rel="canonical" href="${dest}"><script>location.replace(${JSON.stringify(dest)}+location.hash)</script><a href="${dest}">This page has moved</a>`;
+  write(from + ".html", html);
+  write(from + "/index.html", html);
+}
+
 // root redirects to the index note
 const target = urlOf(INDEX);
 write("index.html", `<!doctype html><meta charset="utf-8"><meta http-equiv="refresh" content="0; url=${target}"><script>location.replace("${target}")</script><a href="${target}">${SITE_NAME}</a>`);
@@ -192,3 +210,14 @@ write(".nojekyll", "");
 for (const a of assets) write(a, fs.readFileSync(path.join(root, a === "mbcs.png" ? "site/mbcs.png" : a)));
 for (const f of ["style.css", "site.js"]) write(f, fs.readFileSync(path.join(root, "site", f)));
 console.log(`Built ${notes.length} pages, ${assets.length} assets -> ${out}`);
+
+if (!byLower.has(INDEX.toLowerCase())) warn(`Home page ${INDEX}.md does not exist; set INDEX in site/build.mjs`);
+if (warnings.length) {
+  console.log(`
+${warnings.length} warning(s):`);
+  for (const w of warnings) {
+    console.log("  - " + w);
+    if (process.env.GITHUB_ACTIONS) console.log(`::warning::${w}`); // shown on the Actions run page
+  }
+  if (process.env.STRICT) process.exit(1);
+}
